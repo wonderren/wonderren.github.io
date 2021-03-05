@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Research Page of Zhongqiang (Richard) Ren"
+title: "Research Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
