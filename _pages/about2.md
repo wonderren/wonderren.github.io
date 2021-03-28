@@ -11,14 +11,14 @@ Selected Works
 ======
 
 Preprint
-------
+----
 
 [Subdimensional Expansion for Multi-objective Multi-agent Path Finding](https://arxiv.org/pdf/2102.01353.pdf)\
 **Zhongqiang Ren**, Sivakumar Rathinam, and Howie Choset.\
 Under review.
 
 Conference
-------
+----
 
 [Multi-objective Conflict-based Search for Multi-agent Path Finding](https://arxiv.org/pdf/2101.03805.pdf)\
 **Zhongqiang Ren**, Sivakumar Rathinam, and Howie Choset.\
