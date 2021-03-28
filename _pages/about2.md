@@ -7,7 +7,7 @@ I received my Master degree from Carnegie Mellon University and B.Eng. from both
 My research focuses on planning and decision making for both single robot and multi-robot systems, at the intersection of artificial intelligence and optimization.
 I am currently especially interested in planning paths for multiple robots with respect to various constraints while optimizing multiple objectives by leveraging existing and advancing the frontier of heuristic search, combinatorial analysis and multi-objective optimization.
 
-Selected Works [Google Scholar](https://scholar.google.com/citations?user=kKKvRXsAAAAJ&hl=en&oi=sra)
+Selected Works [[Google Scholar]](https://scholar.google.com/citations?user=kKKvRXsAAAAJ&hl=en&oi=sra)
 ======
 
 Preprint
