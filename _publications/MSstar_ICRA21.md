@@ -1,6 +1,5 @@
 ---
-<img src="/images/fig_MSstar.gif" style="float: left;" alt="drawing" width="200"/>
-title: "MS*: A New Exact Algorithm for Multi-agent Simultaneous Multi-goal Sequencing and Path Finding"
+title: "<img src="/images/fig_MSstar.gif" style="float: left;" alt="drawing" width="200"/><br/>MS*: A New Exact Algorithm for Multi-agent Simultaneous Multi-goal Sequencing and Path Finding"
 collection: publications
 permalink: /publication/MSstar_ICRA21
 excerpt: '**Zhongqiang Ren**, Sivakumar Rathinam, and Howie Choset.<br/>
