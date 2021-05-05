@@ -29,7 +29,6 @@ Conference
 **Zhongqiang Ren**, Sivakumar Rathinam, and Howie Choset.\
 IEEE International Conference on Robotics and Automation (ICRA), 2021.
 
-![MSstar-example =200x120](/images/fig_MSstar.gif)
 [MS*: A New Exact Algorithm for Multi-agent Simultaneous Multi-goal Sequencing and Path Finding](https://arxiv.org/pdf/2103.09979)\
 **Zhongqiang Ren**, Sivakumar Rathinam, and Howie Choset.\
 IEEE International Conference on Robotics and Automation (ICRA), 2021.
