@@ -1,9 +1,8 @@
 ---
+excerpt: '**Zhongqiang Ren**, Sivakumar Rathinam, and Howie Choset. <img src="/images/fig_MSstar.gif" style="float: left;" alt="drawing" width="200"/><br/>'
 title: "MS*: A New Exact Algorithm for Multi-agent Simultaneous Multi-goal Sequencing and Path Finding"
 collection: publications
 permalink: /publication/MSstar_ICRA21
-author: '**Zhongqiang Ren**, Sivakumar Rathinam, and Howie Choset.'
-excerpt: '<img src="/images/fig_MSstar.gif" style="float: left;" alt="drawing" width="200"/><br/>'
 date: 2021
 venue: 'IEEE International Conference on Robotics and Automation (ICRA)'
 paperurl: 'https://arxiv.org/pdf/2103.09979'
