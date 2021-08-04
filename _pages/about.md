@@ -53,7 +53,8 @@ Preprint
 Journal
 ------
 
-* [Subdimensional Expansion for Multi-objective Multi-agent Path Finding](https://arxiv.org/pdf/2102.01353.pdf).\
+* <img src="images/fig_MOMstar.png" alt="" width="250" height="200" align="left" hspace="20" style=" border: #000000 2px outset;">
+[Subdimensional Expansion for Multi-objective Multi-agent Path Finding](https://arxiv.org/pdf/2102.01353.pdf).\
 	**Zhongqiang Ren**, Sivakumar Rathinam, and Howie Choset.\
 	<i>IEEE Robotics and Automation Letters (RA-L)</i>, 2021.\
 	[<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex') } })(this, 'bibtex-ren21-MOMstar');">bibtex</a>]
