@@ -60,11 +60,22 @@ Conference
     year={2021},
     organization={IEEE}
 }
+</pre></div>
+
+*[MS*: A New Exact Algorithm for Multi-agent Simultaneous Multi-goal Sequencing and Path Finding](https://arxiv.org/pdf/2103.09979).
+	**Zhongqiang Ren**, Sivakumar Rathinam, and Howie Choset.
+	<i>IEEE International Conference on Robotics and Automation (ICRA)</i>, 2021.
+	[<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex') } })(this, 'bibtex-ren21-MOCBS');">bibtex</a>]
+<div id="bibtex-ren21-MOCBS" style="display:none">
+<pre>@inproceedings{ren21ms,
+    title={MS*: A New Exact Algorithm for Multi-agent Simultaneous Multi-goal Sequencing and Path Finding},
+    author={Ren, Zhongqiang and Rathinam, Sivakumar and Choset, Howie},
+    booktitle={2021 IEEE International Conference on Robotics and Automation (ICRA)},
+    year={2021},
+    organization={IEEE}
+}
 </pre></div>  
 
-[MS*: A New Exact Algorithm for Multi-agent Simultaneous Multi-goal Sequencing and Path Finding](https://arxiv.org/pdf/2103.09979)\
-**Zhongqiang Ren**, Sivakumar Rathinam, and Howie Choset.\
-IEEE International Conference on Robotics and Automation (ICRA), 2021.
 
 [Geometric motion planning for systems with toroidal and cylindrical shape spaces](https://d1wqtxts1xzle7.cloudfront.net/57737478/DSCC2018-9144.pdf?1541912930=&response-content-disposition=inline%3B+filename%3DGeometric_Motion_Planning_For_Systems_Wi.pdf&Expires=1616924915&Signature=KuFlGSqfnphvOLhbK0Y33d4GZMikmQDXVFK1LDSjJ49hjrZof1sG8xlSdN-gVRQXcFqH9RSK4QV~7ly7Gp5OP9L5NiIqtJpL9XC80kV7gpl8-kGycqKsuy7T5viCGfuKTFeCUDu88YEaI60Ko9wKl8xgKXzHJDHc~L2SOCZfQic0iIw6Jr3Pp5e60X9C8Y2UvqlY8CnLrgOUc~TkN8w8t3kqUl~90KBEtKRvhiPJTk68D7dxPkf5ywee4a8wEDqmGezq34jkf1S4WyooKVlRxZ5LFbTGdVB75oVKgl1sqKi52LjsRanxeAHDqj~XsCGN4867qfEFV-uRnabb~iuN3g__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)\
 Gong, Chaohui, **Zhongqiang Ren**, Julian Whitman, Jaskaran Grover, Baxi Chong, and Howie Choset.\
