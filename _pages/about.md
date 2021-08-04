@@ -93,9 +93,32 @@ Conference
 
 
 * [Geometric motion planning for systems with toroidal and cylindrical shape spaces](https://d1wqtxts1xzle7.cloudfront.net/57737478/DSCC2018-9144.pdf?1541912930=&response-content-disposition=inline%3B+filename%3DGeometric_Motion_Planning_For_Systems_Wi.pdf&Expires=1616924915&Signature=KuFlGSqfnphvOLhbK0Y33d4GZMikmQDXVFK1LDSjJ49hjrZof1sG8xlSdN-gVRQXcFqH9RSK4QV~7ly7Gp5OP9L5NiIqtJpL9XC80kV7gpl8-kGycqKsuy7T5viCGfuKTFeCUDu88YEaI60Ko9wKl8xgKXzHJDHc~L2SOCZfQic0iIw6Jr3Pp5e60X9C8Y2UvqlY8CnLrgOUc~TkN8w8t3kqUl~90KBEtKRvhiPJTk68D7dxPkf5ywee4a8wEDqmGezq34jkf1S4WyooKVlRxZ5LFbTGdVB75oVKgl1sqKi52LjsRanxeAHDqj~XsCGN4867qfEFV-uRnabb~iuN3g__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA).\
-	Gong, Chaohui, **Zhongqiang Ren**, Julian Whitman, Jaskaran Grover, Baxi Chong, and Howie Choset.\
-	Dynamic Systems and Control Conference, American Society of Mechanical Engineers, 2018.
+	Chaohui Gong, **Zhongqiang Ren**, Julian Whitman, Jaskaran Grover, Baxi Chong, and Howie Choset.\
+	Dynamic Systems and Control Conference, American Society of Mechanical Engineers, 2018.\
+	[<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex') } })(this, 'bibtex-gong18-toros');">bibtex</a>]
+<div id="bibtex-gong18-toros" style="display:none">
+<pre>@inproceedings{gong2018geometric,
+  title={Geometric motion planning for systems with toroidal and cylindrical shape spaces},
+  author={Gong, Chaohui and Ren, Zhongqiang and Whitman, Julian and Grover, Jaskaran and Chong, Baxi and Choset, Howie},
+  booktitle={Dynamic Systems and Control Conference},
+  volume={51913},
+  pages={V003T32A013},
+  year={2018},
+  organization={American Society of Mechanical Engineers}
+}
+</pre></div>
 
 * [Deformed state lattice planning](https://www.researchgate.net/profile/Zhongqiang-Ren/publication/321821716_Deformed_state_lattice_planning/links/5e9fdca6a6fdcc20bb360c44/Deformed-state-lattice-planning.pdf).\
 	**Zhongqiang Ren**, Chaohui Gong, and Howie Choset.\
-	IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2017.
+	IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2017.\
+	[<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex') } })(this, 'bibtex-ren17-deformed');">bibtex</a>]
+<div id="bibtex-ren17-deformed" style="display:none">
+<pre>@inproceedings{ren17deformed,
+  title={Deformed state lattice planning},
+  author={Ren, Zhongqiang and Gong, Chaohui and Choset, Howie},
+  booktitle={2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  pages={6307--6312},
+  year={2017},
+  organization={IEEE}
+}
+</pre></div>

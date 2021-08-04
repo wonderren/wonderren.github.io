@@ -33,3 +33,22 @@
     year={2021},
     organization={IEEE}
 }
+
+@inproceedings{gong2018geometric,
+  title={Geometric motion planning for systems with toroidal and cylindrical shape spaces},
+  author={Gong, Chaohui and Ren, Zhongqiang and Whitman, Julian and Grover, Jaskaran and Chong, Baxi and Choset, Howie},
+  booktitle={Dynamic Systems and Control Conference},
+  volume={51913},
+  pages={V003T32A013},
+  year={2018},
+  organization={American Society of Mechanical Engineers}
+}
+
+@inproceedings{ren2017deformed,
+  title={Deformed state lattice planning},
+  author={Ren, Zhongqiang and Gong, Chaohui and Choset, Howie},
+  booktitle={2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  pages={6307--6312},
+  year={2017},
+  organization={IEEE}
+}
