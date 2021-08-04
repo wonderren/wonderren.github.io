@@ -1,0 +1,35 @@
+
+@ARTICLE{ren21momstar,
+  author={Ren, Zhongqiang and Rathinam, Sivakumar and Choset, Howie},
+  journal={IEEE Robotics and Automation Letters}, 
+  title={Subdimensional Expansion for Multi-Objective Multi-Agent Path Finding}, 
+  year={2021},
+  volume={6},
+  number={4},
+  pages={7153-7160},
+  doi={10.1109/LRA.2021.3096744}
+}
+
+@inproceedings{ren21mocbs,
+    title={Multi-objective Conflict-based Search for Multi-agent Path Finding},
+    author={Ren, Zhongqiang and Rathinam, Sivakumar and Choset, Howie},
+    booktitle={2021 IEEE International Conference on Robotics and Automation (ICRA)},
+    year={2021},
+    organization={IEEE}
+}
+
+@inproceedings{ren21ms,
+    title={MS*: A New Exact Algorithm for Multi-agent Simultaneous Multi-goal Sequencing and Path Finding},
+    author={Ren, Zhongqiang and Rathinam, Sivakumar and Choset, Howie},
+    booktitle={2021 IEEE International Conference on Robotics and Automation (ICRA)},
+    year={2021},
+    organization={IEEE}
+}
+
+@inproceedings{ren21loosely,
+    title={Loosely Synchronized Search for Multi-agent Path Finding with Asynchronous Actions},
+    author={Ren, Zhongqiang and Rathinam, Sivakumar and Choset, Howie},
+    booktitle={2021 IEEE/RSJ International Conference on Intelligent Robots and Systems}
+    year={2021},
+    organization={IEEE}
+}
