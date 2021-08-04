@@ -90,7 +90,8 @@ Conference
 </pre></div>
 
 
-* [Multi-objective Conflict-based Search for Multi-agent Path Finding](https://arxiv.org/pdf/2101.03805.pdf).\
+* <img src="images/fig_mocbs.gif" alt="" width="250" height="200" align="left" hspace="20" style=" border: #000000 2px none;">
+[Multi-objective Conflict-based Search for Multi-agent Path Finding](https://arxiv.org/pdf/2101.03805.pdf).\
 	**Zhongqiang Ren**, Sivakumar Rathinam, and Howie Choset.\
 	<i>IEEE International Conference on Robotics and Automation (ICRA)</i>, 2021.\
 	[[code](https://github.com/wonderren/public_pymomapf)]
