@@ -103,7 +103,8 @@ Conference
 }
 </pre></div>
 
-* [MS*: A New Exact Algorithm for Multi-agent Simultaneous Multi-goal Sequencing and Path Finding](https://arxiv.org/pdf/2103.09979).\
+* <img src="images/fig_MSstar.gif" alt="" width="250" height="200" align="left" hspace="20" style=" border: #000000 2px outset;">
+[MS*: A New Exact Algorithm for Multi-agent Simultaneous Multi-goal Sequencing and Path Finding](https://arxiv.org/pdf/2103.09979).\
 	**Zhongqiang Ren**, Sivakumar Rathinam, and Howie Choset.\
 	<i>IEEE International Conference on Robotics and Automation (ICRA)</i>, 2021.\
 	[<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex') } })(this, 'bibtex-ren21-MSstar');">bibtex</a>]
