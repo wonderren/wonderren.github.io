@@ -23,10 +23,36 @@ Selected Works
 Preprint
 ------
 
-(Under Construction...)
+* [Multi-objective Conflict-based Search Using Safe-interval Path Planning](https://arxiv.org/pdf/2108.00745.pdf)
+  **Zhongqiang Ren**, Sivakumar Rathinam, and Howie Choset.\
+  <i>arXiv</i>\
+  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex') } })(this, 'bibtex-ren21-MOMstar');">bibtex</a>]
+<div id="bibtex-ren21-MOMstar" style="display:none">
+<pre>@article{ren21mosipp,
+  title={Multi-objective Conflict-based Search Using Safe-interval Path Planning},
+  author={Ren, Zhongqiang and Rathinam, Sivakumar and Choset, Howie},
+  journal={arXiv preprint arXiv:2108.00745},
+  year={2021}
+}
+</pre></div>  
+
+
+* [Multi-Objective Path-Based D* Lite](https://arxiv.org/pdf/2108.00710.pdf)
+  **Zhongqiang Ren**, Sivakumar Rathinam, and Howie Choset.\
+  <i>arXiv</i>\
+  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex') } })(this, 'bibtex-ren21-MOMstar');">bibtex</a>]
+<div id="bibtex-ren21-MOMstar" style="display:none">
+<pre>@article{ren21mopbd,
+  title={Multi-Objective Path-Based D* Lite},
+  author={Ren, Zhongqiang and Rathinam, Sivakumar and Choset, Howie},
+  journal={arXiv preprint arXiv:2108.00710},
+  year={2021}
+}
+</pre></div>  
 
 Journal
 ------
+
 * [Subdimensional Expansion for Multi-objective Multi-agent Path Finding](https://arxiv.org/pdf/2102.01353.pdf).\
 	**Zhongqiang Ren**, Sivakumar Rathinam, and Howie Choset.\
 	<i>IEEE Robotics and Automation Letters (RA-L)</i>, 2021.\
