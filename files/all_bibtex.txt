@@ -1,6 +1,3 @@
-
-
-
 @article{ren21mopbd,
   title={Multi-Objective Path-Based D* Lite},
   author={Ren, Zhongqiang and Rathinam, Sivakumar and Choset, Howie},

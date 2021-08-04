@@ -23,7 +23,7 @@ Selected Works
 Preprint
 ------
 
-* [Multi-objective Conflict-based Search Using Safe-interval Path Planning](https://arxiv.org/pdf/2108.00745.pdf)
+* [Multi-objective Conflict-based Search Using Safe-interval Path Planning](https://arxiv.org/pdf/2108.00745.pdf).\
   **Zhongqiang Ren**, Sivakumar Rathinam, and Howie Choset.\
   <i>arXiv</i>\
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex') } })(this, 'bibtex-ren21-MOMstar');">bibtex</a>]
@@ -37,7 +37,7 @@ Preprint
 </pre></div>  
 
 
-* [Multi-Objective Path-Based D* Lite](https://arxiv.org/pdf/2108.00710.pdf)
+* [Multi-Objective Path-Based D* Lite](https://arxiv.org/pdf/2108.00710.pdf).\
   **Zhongqiang Ren**, Sivakumar Rathinam, and Howie Choset.\
   <i>arXiv</i>\
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex') } })(this, 'bibtex-ren21-MOMstar');">bibtex</a>]
