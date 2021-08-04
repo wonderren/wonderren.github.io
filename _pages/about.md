@@ -53,7 +53,7 @@ Preprint
 Journal
 ------
 
-* <img src="images/fig_MOMstar.png" alt="" width="250" height="200" align="left" hspace="20" style=" border: #FFFFFF 2px outset;">
+* <img src="images/fig_MOMstar.png" alt="" width="250" height="200" align="left" hspace="20" style=" border: #FFFFFF 2px none;">
 [Subdimensional Expansion for Multi-objective Multi-agent Path Finding](https://arxiv.org/pdf/2102.01353.pdf).\
 	**Zhongqiang Ren**, Sivakumar Rathinam, and Howie Choset.\
 	<i>IEEE Robotics and Automation Letters (RA-L)</i>, 2021.\
@@ -74,7 +74,8 @@ Journal
 Conference
 ------
 
-* [Loosely Synchronized Search for Multi-agent Path Finding with Asynchronous Actions](https://arxiv.org/pdf/2103.04516.pdf).\
+* <img src="images/fig_lss.png" alt="" width="250" height="200" align="left" hspace="20" style=" border: #FFFFFF 2px none;">
+[Loosely Synchronized Search for Multi-agent Path Finding with Asynchronous Actions](https://arxiv.org/pdf/2103.04516.pdf).\
 	**Zhongqiang Ren**, Sivakumar Rathinam, and Howie Choset.\
 	<i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</i>, 2021.\
 	[<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex') } })(this, 'bibtex-ren21-LSS');">bibtex</a>]
@@ -104,7 +105,7 @@ Conference
 }
 </pre></div>
 
-* <img src="images/fig_MSstar.gif" alt="" width="250" height="200" align="left" hspace="20" style=" border: #000000 2px outset;">
+* <img src="images/fig_MSstar.gif" alt="" width="250" height="200" align="left" hspace="20" style=" border: #000000 2px none;">
 [MS*: A New Exact Algorithm for Multi-agent Simultaneous Multi-goal Sequencing and Path Finding](https://arxiv.org/pdf/2103.09979).\
 	**Zhongqiang Ren**, Sivakumar Rathinam, and Howie Choset.\
 	<i>IEEE International Conference on Robotics and Automation (ICRA)</i>, 2021.\
