@@ -49,7 +49,7 @@ Conference
 
 * [Loosely Synchronized Search for Multi-agent Path Finding with Asynchronous Actions](https://arxiv.org/pdf/2103.04516.pdf).\
 	**Zhongqiang Ren**, Sivakumar Rathinam, and Howie Choset.\
-	<i>IEEE International Conference on Robotics and Automation (ICRA)</i>, 2021.\
+	<i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</i>, 2021.\
 	[<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex') } })(this, 'bibtex-ren21-LSS');">bibtex</a>]
 <div id="bibtex-ren21-LSS" style="display:none">
 <pre>@inproceedings{ren21loosely,
