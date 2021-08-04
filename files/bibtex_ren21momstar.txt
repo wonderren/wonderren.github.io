@@ -1,0 +1,10 @@
+@ARTICLE{ren21momstar,
+  author={Ren, Zhongqiang and Rathinam, Sivakumar and Choset, Howie},
+  journal={IEEE Robotics and Automation Letters}, 
+  title={Subdimensional Expansion for Multi-Objective Multi-Agent Path Finding}, 
+  year={2021},
+  volume={6},
+  number={4},
+  pages={7153-7160},
+  doi={10.1109/LRA.2021.3096744}
+}
