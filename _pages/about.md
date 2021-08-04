@@ -34,9 +34,20 @@ Under review.
 Conference
 ------
 
-[Multi-objective Conflict-based Search for Multi-agent Path Finding](https://arxiv.org/pdf/2101.03805.pdf)\
-**Zhongqiang Ren**, Sivakumar Rathinam, and Howie Choset.\
-IEEE International Conference on Robotics and Automation (ICRA), 2021.
+*[Multi-objective Conflict-based Search for Multi-agent Path Finding](https://arxiv.org/pdf/2101.03805.pdf).
+	**Zhongqiang Ren**, Sivakumar Rathinam, and Howie Choset.
+	<i>IEEE International Conference on Robotics and Automation (ICRA)</i>, 2021.
+	[[code](https://github.com/wonderren/public_pymomapf)]
+	[<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex') } })(this, 'bibtex-ren21-MOCBS');">bibtex</a>]
+<div id="bibtex-ren21-MOCBS" style="display:none">
+<pre>@inproceedings{ren21mocbs,
+    title={Multi-objective Conflict-based Search for Multi-agent Path Finding},
+    author={Ren, Zhongqiang and Rathinam, Sivakumar and Choset, Howie},
+    booktitle={2021 IEEE International Conference on Robotics and Automation (ICRA)},
+    year={2021},
+    organization={IEEE}
+}
+</pre></div>  
 
 [MS*: A New Exact Algorithm for Multi-agent Simultaneous Multi-goal Sequencing and Path Finding](https://arxiv.org/pdf/2103.09979)\
 **Zhongqiang Ren**, Sivakumar Rathinam, and Howie Choset.\
