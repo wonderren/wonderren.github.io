@@ -18,6 +18,7 @@ My research focuses on planning for both single robot and multi-robot systems, a
 
 Selected Works [[Google Scholar]](https://scholar.google.com/citations?user=kKKvRXsAAAAJ&hl=en&oi=sra)
 ======
+[[All bibtex](https://wonderren.github.io/files/all_bibtex.txt)]
 
 Preprint
 ------
