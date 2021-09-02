@@ -69,7 +69,8 @@ Journal
   pages={7153-7160},
   doi={10.1109/LRA.2021.3096744}
 }
-</pre></div>  
+</pre></div>
+[Presentation](https://https://github.com/wonderren/wonderren.github.io/blob/master/files/talk_momstar_iros21_ral_crf.mp4)
 
 Conference
 ------
