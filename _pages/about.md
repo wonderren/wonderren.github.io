@@ -58,6 +58,7 @@ Journal
 	**Zhongqiang Ren**, Sivakumar Rathinam, and Howie Choset.\
 	<i>IEEE Robotics and Automation Letters (RA-L)</i>, 2021.\
 	[<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex') } })(this, 'bibtex-ren21-MOMstar');">bibtex</a>]
+[[Presentation](https://youtu.be/pfeBNvOqzvE)]
 <div id="bibtex-ren21-MOMstar" style="display:none">
 <pre>@ARTICLE{ren21momstar,
   author={Ren, Zhongqiang and Rathinam, Sivakumar and Choset, Howie},
