@@ -26,8 +26,8 @@ Preprint
 * [Multi-objective Conflict-based Search Using Safe-interval Path Planning](https://arxiv.org/pdf/2108.00745.pdf).\
   **Zhongqiang Ren**, Sivakumar Rathinam, and Howie Choset.\
   <i>arXiv</i>\
-  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex') } })(this, 'bibtex-ren21-MOMstar');">bibtex</a>]
-<div id="bibtex-ren21-MOMstar" style="display:none">
+  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex') } })(this, 'bibtex-ren21-mosipp');">bibtex</a>]
+<div id="bibtex-ren21-mosipp" style="display:none">
 <pre>@article{ren21mosipp,
   title={Multi-objective Conflict-based Search Using Safe-interval Path Planning},
   author={Ren, Zhongqiang and Rathinam, Sivakumar and Choset, Howie},
