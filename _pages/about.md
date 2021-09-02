@@ -40,8 +40,8 @@ Preprint
 * [Multi-Objective Path-Based D* Lite](https://arxiv.org/pdf/2108.00710.pdf).\
   **Zhongqiang Ren**, Sivakumar Rathinam, and Howie Choset.\
   <i>arXiv</i>\
-  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex') } })(this, 'bibtex-ren21-MOMstar');">bibtex</a>]
-<div id="bibtex-ren21-MOMstar" style="display:none">
+  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex') } })(this, 'bibtex-ren21-MOPBD');">bibtex</a>]
+<div id="bibtex-ren21-MOPBD" style="display:none">
 <pre>@article{ren21mopbd,
   title={Multi-Objective Path-Based D* Lite},
   author={Ren, Zhongqiang and Rathinam, Sivakumar and Choset, Howie},
@@ -70,7 +70,7 @@ Journal
   doi={10.1109/LRA.2021.3096744}
 }
 </pre></div>
-[Presentation](https://https://github.com/wonderren/wonderren.github.io/blob/master/files/talk_momstar_iros21_ral_crf.mp4)
+
 
 Conference
 ------
