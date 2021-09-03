@@ -81,8 +81,8 @@ Conference
 	**Zhongqiang Ren**, Sivakumar Rathinam, and Howie Choset.\
 	<i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</i>, 2021.\
 	[<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex') } })(this, 'bibtex-ren21-LSS');">bibtex</a>]
-<div id="bibtex-ren21-LSS" style="display:none">
 [[talk](https://youtu.be/u0WSXr3yjhc)]
+<div id="bibtex-ren21-LSS" style="display:none">
 <pre>@inproceedings{ren21loosely,
     title={Loosely Synchronized Search for Multi-agent Path Finding with Asynchronous Actions},
     author={Ren, Zhongqiang and Rathinam, Sivakumar and Choset, Howie},
@@ -99,8 +99,8 @@ Conference
 	<i>IEEE International Conference on Robotics and Automation (ICRA)</i>, 2021.\
 	[[code](https://github.com/wonderren/public_pymomapf)]
 	[<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex') } })(this, 'bibtex-ren21-MOCBS');">bibtex</a>]
-<div id="bibtex-ren21-MOCBS" style="display:none">
 [[talk](https://youtu.be/KI-BVhsjg0I)]
+<div id="bibtex-ren21-MOCBS" style="display:none">
 <pre>@inproceedings{ren21mocbs,
     title={Multi-objective Conflict-based Search for Multi-agent Path Finding},
     author={Ren, Zhongqiang and Rathinam, Sivakumar and Choset, Howie},
@@ -115,8 +115,8 @@ Conference
 	**Zhongqiang Ren**, Sivakumar Rathinam, and Howie Choset.\
 	<i>IEEE International Conference on Robotics and Automation (ICRA)</i>, 2021.\
 	[<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex') } })(this, 'bibtex-ren21-MSstar');">bibtex</a>]
-<div id="bibtex-ren21-MSstar" style="display:none">
 [[talk](https://youtu.be/cjwO4yycfpo)]
+<div id="bibtex-ren21-MSstar" style="display:none">
 <pre>@inproceedings{ren21ms,
     title={MS*: A New Exact Algorithm for Multi-agent Simultaneous Multi-goal Sequencing and Path Finding},
     author={Ren, Zhongqiang and Rathinam, Sivakumar and Choset, Howie},
