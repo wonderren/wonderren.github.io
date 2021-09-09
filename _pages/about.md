@@ -60,7 +60,7 @@ Subdimensional Expansion for Multi-objective Multi-agent Path Finding\
 	**Zhongqiang Ren**, Sivakumar Rathinam, and Howie Choset.\
 	<i>IEEE Robotics and Automation Letters (RA-L)</i>, 2021.\
 	[<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex') } })(this, 'bibtex-ren21-MOMstar');">Bibtex</a>]
-[[Code](https://github.com/wonderren/public_pymomapf)][[PDF](https://arxiv.org/pdf/2102.01353.pdf)][[talk](https://youtu.be/pfeBNvOqzvE)]
+[[Code](https://github.com/wonderren/public_pymomapf)][[PDF](https://arxiv.org/pdf/2102.01353.pdf)][[Talk](https://youtu.be/pfeBNvOqzvE)]
 <div id="bibtex-ren21-MOMstar" style="display:none">
 <pre>@ARTICLE{ren21momstar,
   author={Ren, Zhongqiang and Rathinam, Sivakumar and Choset, Howie},
@@ -83,7 +83,7 @@ Loosely Synchronized Search for Multi-agent Path Finding with Asynchronous Actio
 	**Zhongqiang Ren**, Sivakumar Rathinam, and Howie Choset.\
 	<i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</i>, 2021.\
 	[<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex') } })(this, 'bibtex-ren21-LSS');">Bibtex</a>]
-[[PDF](https://arxiv.org/pdf/2103.04516.pdf)][[talk](https://youtu.be/u0WSXr3yjhc)]
+[[PDF](https://arxiv.org/pdf/2103.04516.pdf)][[Talk](https://youtu.be/u0WSXr3yjhc)]
 <div id="bibtex-ren21-LSS" style="display:none">
 <pre>@inproceedings{ren21loosely,
     title={Loosely Synchronized Search for Multi-agent Path Finding with Asynchronous Actions},
@@ -101,7 +101,7 @@ Multi-objective Conflict-based Search for Multi-agent Path Finding\
 	<i>IEEE International Conference on Robotics and Automation (ICRA)</i>, 2021.\
 	[[Code](https://github.com/wonderren/public_pymomapf)]
 	[<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex') } })(this, 'bibtex-ren21-MOCBS');">Bibtex</a>]
-[[PDF](https://arxiv.org/pdf/2101.03805.pdf)][[talk](https://youtu.be/KI-BVhsjg0I)]
+[[PDF](https://arxiv.org/pdf/2101.03805.pdf)][[Talk](https://youtu.be/KI-BVhsjg0I)]
 <div id="bibtex-ren21-MOCBS" style="display:none">
 <pre>@inproceedings{ren21mocbs,
     title={Multi-objective Conflict-based Search for Multi-agent Path Finding},
@@ -117,7 +117,7 @@ MS*: A New Exact Algorithm for Multi-agent Simultaneous Multi-goal Sequencing an
 	**Zhongqiang Ren**, Sivakumar Rathinam, and Howie Choset.\
 	<i>IEEE International Conference on Robotics and Automation (ICRA)</i>, 2021.\
 	[<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex') } })(this, 'bibtex-ren21-MSstar');">Bibtex</a>]
-[[PDF](https://arxiv.org/pdf/2103.09979)][[talk](https://youtu.be/cjwO4yycfpo)]
+[[PDF](https://arxiv.org/pdf/2103.09979)][[Talk](https://youtu.be/cjwO4yycfpo)]
 <div id="bibtex-ren21-MSstar" style="display:none">
 <pre>@inproceedings{ren21ms,
     title={MS*: A New Exact Algorithm for Multi-agent Simultaneous Multi-goal Sequencing and Path Finding},
