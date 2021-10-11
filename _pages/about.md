@@ -38,9 +38,9 @@ Preprint
   Lakshay Virmani\*, **Zhongqiang Ren\***, Sivakumar Rathinam, and Howie Choset.\
   (\* indicates equal contribution)\
   <i>arXiv</i>\
-  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex') } })(this, 'bibtex-ren21-mosipp');">Bibtex</a>]
+  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex') } })(this, 'bibtex-ren22-lmstar');">Bibtex</a>]
 [[Code](https://github.com/lakshayvirmani/learning-assisted-mstar)][[PDF](https://arxiv.org/pdf/2109.14695.pdf)][[Video](https://youtu.be/if7kzJ9MAAg)]
-<div id="bibtex-ren21-lmstar" style="display:none">
+<div id="bibtex-ren22-lmstar" style="display:none">
 <pre>@article{virmani22lmstar,
   title={Subdimensional Expansion Using Attention-Based Learning For Multi-Agent Path Finding},
   author={Virmani, Lakshay and Ren, Zhongqiang and Rathinam, Sivakumar and Choset, Howie},
