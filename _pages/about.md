@@ -34,13 +34,28 @@ Selected Works
 Preprint
 ------
 
+* Subdimensional Expansion Using Attention-Based Learning For Multi-Agent Path Finding\
+  Lakshay Virmani\*, **Zhongqiang Ren\***, Sivakumar Rathinam, and Howie Choset.\
+  (\* indicates equal contribution)\
+  <i>arXiv</i>\
+  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex') } })(this, 'bibtex-ren21-mosipp');">Bibtex</a>]
+[[Code](https://github.com/lakshayvirmani/learning-assisted-mstar)][[PDF](https://arxiv.org/pdf/2109.14695.pdf)][[Video](https://youtu.be/if7kzJ9MAAg)]
+<div id="bibtex-ren21-lmstar" style="display:none">
+<pre>@article{virmani22lmstar,
+  title={Subdimensional Expansion Using Attention-Based Learning For Multi-Agent Path Finding},
+  author={Virmani, Lakshay and Ren, Zhongqiang and Rathinam, Sivakumar and Choset, Howie},
+  journal={arXiv preprint arXiv:2109.14695},
+  year={2021}
+}
+</pre></div>
+
 * Multi-objective Conflict-based Search Using Safe-interval Path Planning\
   **Zhongqiang Ren**, Sivakumar Rathinam, and Howie Choset.\
   <i>arXiv</i>\
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex') } })(this, 'bibtex-ren21-mosipp');">Bibtex</a>]
 [[PDF](https://arxiv.org/pdf/2108.00745.pdf)]
 <div id="bibtex-ren21-mosipp" style="display:none">
-<pre>@article{ren21mosipp,
+<pre>@article{ren22mosipp,
   title={Multi-objective Conflict-based Search Using Safe-interval Path Planning},
   author={Ren, Zhongqiang and Rathinam, Sivakumar and Choset, Howie},
   journal={arXiv preprint arXiv:2108.00745},
@@ -55,7 +70,7 @@ Preprint
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex') } })(this, 'bibtex-ren21-MOPBD');">Bibtex</a>]
 [[PDF](https://arxiv.org/pdf/2108.00710.pdf)]
 <div id="bibtex-ren21-MOPBD" style="display:none">
-<pre>@article{ren21mopbd,
+<pre>@article{ren22mopbd,
   title={Multi-Objective Path-Based D* Lite},
   author={Ren, Zhongqiang and Rathinam, Sivakumar and Choset, Howie},
   journal={arXiv preprint arXiv:2108.00710},
