@@ -154,8 +154,8 @@ MS*: A New Exact Algorithm for Multi-agent Simultaneous Multi-goal Sequencing an
 }
 </pre></div>  
 
-
-* Geometric motion planning for systems with toroidal and cylindrical shape spaces\
+* <img src="images/fig_torus.png" alt="" width="250" height="200" align="left" hspace="20" style=" border: #000000 2px none;">
+Geometric motion planning for systems with toroidal and cylindrical shape spaces\
 	Chaohui Gong, **Zhongqiang Ren**, Julian Whitman, Jaskaran Grover, Baxi Chong, and Howie Choset.\
 	Dynamic Systems and Control Conference, American Society of Mechanical Engineers, 2018.\
 	[<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex') } })(this, 'bibtex-gong18-toros');">Bibtex</a>]
