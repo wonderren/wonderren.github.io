@@ -1,0 +1,6 @@
+@article{virmani22lm,
+  title={Subdimensional Expansion Using Attention-Based Learning For Multi-Agent Path Finding},
+  author={Virmani, Lakshay and Ren, Zhongqiang and Rathinam, Sivakumar and Choset, Howie},
+  journal={arXiv preprint arXiv:2109.14695},
+  year={2021}
+}

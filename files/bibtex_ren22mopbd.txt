@@ -1,0 +1,10 @@
+@article{ren22mopbd,
+  title={Multi-Objective Path-Based D* Lite},
+  author={Ren, Zhongqiang and Rathinam, Sivakumar and Likhachev, Maxim and Choset, Howie},
+  journal={IEEE Robotics and Automation Letters},
+  volume={7},
+  number={2},
+  pages={3318--3325},
+  year={2022},
+  publisher={IEEE}
+}

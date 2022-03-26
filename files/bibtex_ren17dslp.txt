@@ -1,0 +1,8 @@
+@inproceedings{ren17deformed,
+  title={Deformed state lattice planning},
+  author={Ren, Zhongqiang and Gong, Chaohui and Choset, Howie},
+  booktitle={2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  pages={6307--6312},
+  year={2017},
+  organization={IEEE}
+}

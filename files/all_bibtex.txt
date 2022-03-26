@@ -1,8 +1,41 @@
-@article{ren21mopbd,
-  title={Multi-Objective Path-Based D* Lite},
+
+@article{ren22lbmp,
+  title={A Lower Bounding Framework for Motion Planning amid Dynamic Obstacles in 2D},
   author={Ren, Zhongqiang and Rathinam, Sivakumar and Choset, Howie},
-  journal={arXiv preprint arXiv:2108.00710},
+  journal={arXiv preprint arXiv:2202.07409},
+  year={2022}
+}
+
+@article{ren22emoa,
+  title={Enhanced Multi-Objective A* Using Balanced Binary Search Trees},
+  author={Ren, Zhongqiang and Rathinam, Sivakumar and Likhachev, Maxim and Choset, Howie},
+  journal={arXiv preprint arXiv:2202.08992},
+  year={2022}
+}
+
+@article{virmani22lm,
+  title={Subdimensional Expansion Using Attention-Based Learning For Multi-Agent Path Finding},
+  author={Virmani, Lakshay and Ren, Zhongqiang and Rathinam, Sivakumar and Choset, Howie},
+  journal={arXiv preprint arXiv:2109.14695},
   year={2021}
+}
+
+@article{ren22mosipp,
+  title={Multi-objective Conflict-based Search Using Safe-interval Path Planning},
+  author={Ren, Zhongqiang and Rathinam, Sivakumar and Choset, Howie},
+  journal={arXiv preprint arXiv:2108.00745},
+  year={2021}
+}
+
+@article{ren22mopbd,
+  title={Multi-Objective Path-Based D* Lite},
+  author={Ren, Zhongqiang and Rathinam, Sivakumar and Likhachev, Maxim and Choset, Howie},
+  journal={IEEE Robotics and Automation Letters},
+  volume={7},
+  number={2},
+  pages={3318--3325},
+  year={2022},
+  publisher={IEEE}
 }
 
 @ARTICLE{ren21momstar,
@@ -32,7 +65,7 @@
     organization={IEEE}
 }
 
-@inproceedings{ren21loosely,
+@inproceedings{ren21lss,
     title={Loosely Synchronized Search for Multi-agent Path Finding with Asynchronous Actions},
     author={Ren, Zhongqiang and Rathinam, Sivakumar and Choset, Howie},
     booktitle={2021 IEEE/RSJ International Conference on Intelligent Robots and Systems}
@@ -40,7 +73,7 @@
     organization={IEEE}
 }
 
-@inproceedings{gong2018geometric,
+@inproceedings{gong18torus,
   title={Geometric motion planning for systems with toroidal and cylindrical shape spaces},
   author={Gong, Chaohui and Ren, Zhongqiang and Whitman, Julian and Grover, Jaskaran and Chong, Baxi and Choset, Howie},
   booktitle={Dynamic Systems and Control Conference},
@@ -50,7 +83,7 @@
   organization={American Society of Mechanical Engineers}
 }
 
-@inproceedings{ren2017deformed,
+@inproceedings{ren17deformed,
   title={Deformed state lattice planning},
   author={Ren, Zhongqiang and Gong, Chaohui and Choset, Howie},
   booktitle={2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},

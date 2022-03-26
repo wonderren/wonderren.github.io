@@ -1,0 +1,9 @@
+@inproceedings{gong18torus,
+  title={Geometric motion planning for systems with toroidal and cylindrical shape spaces},
+  author={Gong, Chaohui and Ren, Zhongqiang and Whitman, Julian and Grover, Jaskaran and Chong, Baxi and Choset, Howie},
+  booktitle={Dynamic Systems and Control Conference},
+  volume={51913},
+  pages={V003T32A013},
+  year={2018},
+  organization={American Society of Mechanical Engineers}
+}

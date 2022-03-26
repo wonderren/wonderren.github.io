@@ -1,0 +1,7 @@
+@inproceedings{ren21lss,
+    title={Loosely Synchronized Search for Multi-agent Path Finding with Asynchronous Actions},
+    author={Ren, Zhongqiang and Rathinam, Sivakumar and Choset, Howie},
+    booktitle={2021 IEEE/RSJ International Conference on Intelligent Robots and Systems}
+    year={2021},
+    organization={IEEE}
+}
