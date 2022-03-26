@@ -44,6 +44,8 @@ Multi-Objective Path-Based D* Lite\
 [[Paper](https://ieeexplore.ieee.org/abstract/document/9697421)]
 [[Arxiv](https://arxiv.org/pdf/2108.00710.pdf)]
 <!-- [[Talk]()] -->
+\
+\
 
 * <img src="images/fig_MOMstar.png" alt="" width="250" height="200" align="left" hspace="20" style=" border: #FFFFFF 2px none;">
 Subdimensional Expansion for Multi-objective Multi-agent Path Finding\
