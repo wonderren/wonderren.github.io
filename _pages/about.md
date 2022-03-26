@@ -113,14 +113,14 @@ Preprint
   **Zhongqiang Ren**, Sivakumar Rathinam, Maxim Likhachev and Howie Choset.\
   <i>arXiv</i>\
 [[Bibtex](https://wonderren.github.io/files/bibtex_ren22lbmp.txt)]
-[[Arxiv](https://arxiv.org/pdf/2202.07409.pdf)]
+[[Arxiv](https://arxiv.org/pdf/2202.08992.pdf)]
 [[Code](https://github.com/wonderren/public_emoa)]
 
 * A Lower Bounding Framework for Motion Planning amid Dynamic Obstacles in 2D\
   **Zhongqiang Ren**, Sivakumar Rathinam and Howie Choset.\
   <i>arXiv</i>\
 [[Bibtex](https://wonderren.github.io/files/bibtex_ren22emoa.txt)]
-[[Arxiv](https://arxiv.org/pdf/2202.08992.pdf)]
+[[Arxiv](https://arxiv.org/pdf/2202.07409.pdf)]
 
 * Subdimensional Expansion Using Attention-Based Learning For Multi-Agent Path Finding\
   Lakshay Virmani\*, **Zhongqiang Ren\***, Sivakumar Rathinam, and Howie Choset.\
