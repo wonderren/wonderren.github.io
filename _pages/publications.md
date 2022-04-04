@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-Publications
-======
 [[Google Scholar](https://scholar.google.com/citations?user=kKKvRXsAAAAJ&hl=en&oi=sra)] [[All bibtex](https://wonderren.github.io/files/all_bibtex.txt)] 
 
 
@@ -35,6 +33,8 @@ Subdimensional Expansion for Multi-objective Multi-agent Path Finding\
 [[Arxiv](https://arxiv.org/pdf/2102.01353.pdf)]
 [[Talk](https://youtu.be/pfeBNvOqzvE)]
 [[Code](https://github.com/wonderren/public_cppmomapf)]
+<br>
+<br>
 
 Conference
 ------
@@ -47,6 +47,8 @@ Loosely Synchronized Search for Multi-agent Path Finding with Asynchronous Actio
 [[Paper](https://ieeexplore.ieee.org/document/9636683)]
 [[Arxiv](https://arxiv.org/pdf/2103.04516.pdf)]
 [[Talk](https://youtu.be/u0WSXr3yjhc)]
+<br>
+<br>
 
 * <img src="../images/fig_mocbs.gif" alt="" width="250" height="200" align="left" hspace="20" style=" border: #000000 2px none;">
 Multi-objective Conflict-based Search for Multi-agent Path Finding\
@@ -57,6 +59,8 @@ Multi-objective Conflict-based Search for Multi-agent Path Finding\
 [[Arxiv](https://arxiv.org/pdf/2101.03805.pdf)]
 [[Talk](https://youtu.be/KI-BVhsjg0I)]
 [[Code](https://github.com/wonderren/public_cppmomapf)]
+<br>
+<br>
 
 * <img src="../images/fig_MSstar.gif" alt="" width="250" height="200" align="left" hspace="20" style=" border: #000000 2px none;">
 MS*: A New Exact Algorithm for Multi-agent Simultaneous Multi-goal Sequencing and Path Finding\
@@ -66,6 +70,8 @@ MS*: A New Exact Algorithm for Multi-agent Simultaneous Multi-goal Sequencing an
 [[Paper](https://ieeexplore.ieee.org/document/9561779)]
 [[PDF](https://arxiv.org/pdf/2103.09979)]
 [[Talk](https://youtu.be/cjwO4yycfpo)]
+<br>
+<br>
 
 * <img src="../images/fig_torus.png" alt="" width="250" height="200" align="left" hspace="20" style=" border: #000000 2px none;">
 Geometric motion planning for systems with toroidal and cylindrical shape spaces\
@@ -74,6 +80,8 @@ Geometric motion planning for systems with toroidal and cylindrical shape spaces
 [[Bibtex](https://wonderren.github.io/files/bibtex_gong18torus.txt)]
 [[Paper](https://asmedigitalcollection.asme.org/DSCC/proceedings-abstract/DSCC2018/51913/V003T32A013/270996)]
 [[PDF](https://d1wqtxts1xzle7.cloudfront.net/57737478/DSCC2018-9144.pdf?1541912930=&response-content-disposition=inline%3B+filename%3DGeometric_Motion_Planning_For_Systems_Wi.pdf&Expires=1616924915&Signature=KuFlGSqfnphvOLhbK0Y33d4GZMikmQDXVFK1LDSjJ49hjrZof1sG8xlSdN-gVRQXcFqH9RSK4QV~7ly7Gp5OP9L5NiIqtJpL9XC80kV7gpl8-kGycqKsuy7T5viCGfuKTFeCUDu88YEaI60Ko9wKl8xgKXzHJDHc~L2SOCZfQic0iIw6Jr3Pp5e60X9C8Y2UvqlY8CnLrgOUc~TkN8w8t3kqUl~90KBEtKRvhiPJTk68D7dxPkf5ywee4a8wEDqmGezq34jkf1S4WyooKVlRxZ5LFbTGdVB75oVKgl1sqKi52LjsRanxeAHDqj~XsCGN4867qfEFV-uRnabb~iuN3g__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)]
+<br>
+<br>
 
 * Deformed state lattice planning\
 	**Zhongqiang Ren**, Chaohui Gong, and Howie Choset.\
