@@ -13,7 +13,7 @@ Publications
 Journal
 ------
 
-* <img src="images/fig_mopbd.gif" alt="" width="200" height="200" align="left" hspace="20" style=" border: #000000 2px none;">
+* <img src="../images/fig_mopbd.gif" alt="" width="200" height="200" align="left" hspace="20" style=" border: #000000 2px none;">
 Multi-Objective Path-Based D* Lite\
   **Zhongqiang Ren**, Sivakumar Rathinam, Maxim Likhachev and Howie Choset.\
   <i>IEEE Robotics and Automation Letters (RA-L)</i>, 2022.\
@@ -26,7 +26,7 @@ Multi-Objective Path-Based D* Lite\
 <br>
 <br>
 
-* <img src="images/fig_MOMstar.png" alt="" width="250" height="200" align="left" hspace="20" style=" border: #FFFFFF 2px none;">
+* <img src="../images/fig_MOMstar.png" alt="" width="250" height="200" align="left" hspace="20" style=" border: #FFFFFF 2px none;">
 Subdimensional Expansion for Multi-objective Multi-agent Path Finding\
 	**Zhongqiang Ren**, Sivakumar Rathinam, and Howie Choset.\
 	<i>IEEE Robotics and Automation Letters (RA-L)</i>, 2021.\
