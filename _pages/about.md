@@ -40,13 +40,13 @@ News
   <summary>Show more</summary>
   <ul>
     <li>
-      \[2020.10\] As the CTO of BITO Robotics, I give a talk at a [salon](https://www.yun-live.com/article_pc/3459) about industrial intelligence in Xiamen, China.
+      [2020.10] As the CTO of BITO Robotics, I give a talk at a <a href="https://www.yun-live.com/article_pc/3459">salon</a> about industrial intelligence in Xiamen, China.
     </li>
     <li>
-      \[2020.07\] As the CTO of BITO Robotics, I give a virtual [talk](https://www.aiimooc.com/mall/preshow-htm-itemid-605.html) about mobile robots in industrial applications.
+      [2020.07] As the CTO of BITO Robotics, I give a virtual <a href="https://www.aiimooc.com/mall/preshow-htm-itemid-605.html">talk</a> about mobile robots in industrial applications.
     </li>
     <li>
-      \[2019.12\] As the CTO of BITO Robotics, I give a [talk](https://www.sohu.com/a/360892392_120166828) about AGV and logistics at Gaogong Forum in Shenzhen, China.
+      [2019.12] As the CTO of BITO Robotics, I give a <a href="https://www.sohu.com/a/360892392_120166828">talk</a> about AGV and logistics at Gaogong Forum in Shenzhen, China.
     </li>
   </ul>
 </details>
