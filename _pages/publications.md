@@ -62,6 +62,7 @@ Multi-objective Conflict-based Search for Multi-agent Path Finding\
 <br>
 <br>
 <br>
+<br>
 
 * <img src="../images/fig_MSstar.gif" alt="" width="250" height="200" align="left" hspace="20" style=" border: #000000 2px none;">
 MS*: A New Exact Algorithm for Multi-agent Simultaneous Multi-goal Sequencing and Path Finding\
