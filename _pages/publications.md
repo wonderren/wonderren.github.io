@@ -39,7 +39,7 @@ Subdimensional Expansion for Multi-objective Multi-agent Path Finding\
 Conference
 ------
 
-* <img src="images/fig_lss.png" alt="" width="250" height="200" align="left" hspace="20" style=" border: #FFFFFF 2px none;">
+* <img src="../images/fig_lss.png" alt="" width="250" height="200" align="left" hspace="20" style=" border: #FFFFFF 2px none;">
 Loosely Synchronized Search for Multi-agent Path Finding with Asynchronous Actions\
 	**Zhongqiang Ren**, Sivakumar Rathinam, and Howie Choset.\
 	<i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</i>, 2021.\
@@ -48,7 +48,7 @@ Loosely Synchronized Search for Multi-agent Path Finding with Asynchronous Actio
 [[Arxiv](https://arxiv.org/pdf/2103.04516.pdf)]
 [[Talk](https://youtu.be/u0WSXr3yjhc)]
 
-* <img src="images/fig_mocbs.gif" alt="" width="250" height="200" align="left" hspace="20" style=" border: #000000 2px none;">
+* <img src="../images/fig_mocbs.gif" alt="" width="250" height="200" align="left" hspace="20" style=" border: #000000 2px none;">
 Multi-objective Conflict-based Search for Multi-agent Path Finding\
 	**Zhongqiang Ren**, Sivakumar Rathinam, and Howie Choset.\
 	<i>IEEE International Conference on Robotics and Automation (ICRA)</i>, 2021.\
@@ -58,7 +58,7 @@ Multi-objective Conflict-based Search for Multi-agent Path Finding\
 [[Talk](https://youtu.be/KI-BVhsjg0I)]
 [[Code](https://github.com/wonderren/public_cppmomapf)]
 
-* <img src="images/fig_MSstar.gif" alt="" width="250" height="200" align="left" hspace="20" style=" border: #000000 2px none;">
+* <img src="../images/fig_MSstar.gif" alt="" width="250" height="200" align="left" hspace="20" style=" border: #000000 2px none;">
 MS*: A New Exact Algorithm for Multi-agent Simultaneous Multi-goal Sequencing and Path Finding\
 	**Zhongqiang Ren**, Sivakumar Rathinam, and Howie Choset.\
 	<i>IEEE International Conference on Robotics and Automation (ICRA)</i>, 2021.\
@@ -67,7 +67,7 @@ MS*: A New Exact Algorithm for Multi-agent Simultaneous Multi-goal Sequencing an
 [[PDF](https://arxiv.org/pdf/2103.09979)]
 [[Talk](https://youtu.be/cjwO4yycfpo)]
 
-* <img src="images/fig_torus.png" alt="" width="250" height="200" align="left" hspace="20" style=" border: #000000 2px none;">
+* <img src="../images/fig_torus.png" alt="" width="250" height="200" align="left" hspace="20" style=" border: #000000 2px none;">
 Geometric motion planning for systems with toroidal and cylindrical shape spaces\
 	Chaohui Gong, **Zhongqiang Ren**, Julian Whitman, Jaskaran Grover, Baxi Chong, and Howie Choset.\
 	Dynamic Systems and Control Conference, American Society of Mechanical Engineers, 2018.\
