@@ -74,6 +74,7 @@ MS*: A New Exact Algorithm for Multi-agent Simultaneous Multi-goal Sequencing an
 [[Talk](https://youtu.be/cjwO4yycfpo)]
 <br>
 <br>
+<br>
 
 * <img src="../images/fig_torus.png" alt="" width="250" height="200" align="left" hspace="20" style=" border: #000000 2px none;">
 Geometric motion planning for systems with toroidal and cylindrical shape spaces\
