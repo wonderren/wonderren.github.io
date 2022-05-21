@@ -48,6 +48,8 @@ Conflict-Based Steiner Search for Multi-Agent Combinatorial Path Finding\
 [[Code](https://github.com/wonderren/public_pymcpf)]
 <br>
 <br>
+<br>
+<br>
 
 
 * <img src="../images/fig_moes_overview.png" alt="" width="200" height="200" align="left" hspace="20" style=" border: #FFFFFF 2px none;">
@@ -57,6 +59,8 @@ A Local Optimization Framework for Multi-Objective Ergodic Search\
 [[Bibtex](https://wonderren.github.io/files/bibtex_ren22moes.txt)]
 [[Paper](http://www.roboticsproceedings.org/rss18/p052.pdf)]
 [[Code](https://github.com/wonderren/public_moes)]
+<br>
+<br>
 <br>
 <br>
 
