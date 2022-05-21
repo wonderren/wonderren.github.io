@@ -32,6 +32,7 @@ My research focuses on path and motion planning for both single robot and multi-
 
 News
 ======
+* \[2022.04\] Our papers [Conflict-Based Steiner Search](http://www.roboticsproceedings.org/rss18/p058.pdf) and [Multi-Objective Ergodic Search](http://www.roboticsproceedings.org/rss18/p052.pdf) are accepted to [RSS-2022](https://roboticsconference.org/)
 * \[2022.04\] Our paper [A Lower Bounding Framework for Motion Planning amid Dynamic Obstacles in 2D](https://arxiv.org/pdf/2202.07409.pdf) is accepted to [WAFR-2022](https://wafr2022.github.io/).
 * \[2022.01\] Our paper [Multi-Objective Path-Based D* Lite](https://ieeexplore.ieee.org/abstract/document/9697421) is accepted to RA-L.
 * \[2021.09\] I give virtual talks about [Multi-Objective M*](https://www.youtube.com/watch?v=pfeBNvOqzvE) and [Loosely-Synchronized Search](https://www.youtube.com/watch?v=u0WSXr3yjhc&t=2s) at [IROS-2021](https://www.iros2021.org/).
