@@ -1,3 +1,22 @@
+@INPROCEEDINGS{ren22moes, 
+    AUTHOR    = {Zhongqiang Ren AND {Akshaya Kesarimangalam} Srinivasan AND Howard Coffin AND Ian Abraham AND Howie Choset}, 
+    TITLE     = {{A Local Optimization Framework for Multi-Objective Ergodic Search}}, 
+    BOOKTITLE = {Proceedings of Robotics: Science and Systems}, 
+    YEAR      = {2022}, 
+    ADDRESS   = {New York City, NY, USA}, 
+    MONTH     = {June}, 
+    DOI       = {10.15607/RSS.2022.XVIII.052} 
+} 
+
+@INPROCEEDINGS{ren22cbss, 
+    AUTHOR    = {Zhongqiang Ren AND Sivakumar Rathinam AND Howie Choset}, 
+    TITLE     = {{Conflict-Based Steiner Search for Multi-Agent Combinatorial Path Finding}}, 
+    BOOKTITLE = {Proceedings of Robotics: Science and Systems}, 
+    YEAR      = {2022}, 
+    ADDRESS   = {New York City, NY, USA}, 
+    MONTH     = {June}, 
+    DOI       = {10.15607/RSS.2022.XVIII.058} 
+} 
 
 @article{ren22lbmp,
   title={A Lower Bounding Framework for Motion Planning amid Dynamic Obstacles in 2D},
