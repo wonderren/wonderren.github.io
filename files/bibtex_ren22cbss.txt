@@ -1,5 +1,5 @@
 @INPROCEEDINGS{ren22cbss, 
-    AUTHOR    = {Zhongqiang Ren AND Sivakumar  Rathinam AND Howie Choset}, 
+    AUTHOR    = {Zhongqiang Ren AND Sivakumar Rathinam AND Howie Choset}, 
     TITLE     = {{Conflict-Based Steiner Search for Multi-Agent Combinatorial Path Finding}}, 
     BOOKTITLE = {Proceedings of Robotics: Science and Systems}, 
     YEAR      = {2022}, 
