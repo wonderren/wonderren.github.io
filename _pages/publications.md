@@ -39,6 +39,16 @@ Subdimensional Expansion for Multi-objective Multi-agent Path Finding\
 Conference
 ------
 
+* <img src="../images/fig_moes_overview.png" alt="" width="250" height="200" align="left" hspace="20" style=" border: #FFFFFF 2px none;">
+A Local Optimization Framework for Multi-Objective Ergodic Search\
+	**Zhongqiang Ren**, Akshaya Kesarimangalam Srinivasan, Howard Coffin, Ian Abraham and Howie Choset.\
+	<i>Robotics: Science and Systems (RSS)</i>, 2022.\
+[[Bibtex](https://wonderren.github.io/files/bibtex_ren22moes.txt)]
+[[Paper](http://www.roboticsproceedings.org/rss18/p052.pdf)]
+[[Code](https://github.com/wonderren/public_moes)]
+<br>
+<br>
+
 * <img src="../images/fig_lss.png" alt="" width="250" height="200" align="left" hspace="20" style=" border: #FFFFFF 2px none;">
 Loosely Synchronized Search for Multi-agent Path Finding with Asynchronous Actions\
 	**Zhongqiang Ren**, Sivakumar Rathinam, and Howie Choset.\
