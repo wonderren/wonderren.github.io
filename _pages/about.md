@@ -34,7 +34,7 @@ I am currently especially interested in planning paths for multiple robots with 
 News
 ======
 
-* \[2022.05\] I present Multi-Objective Path-Based D* Lite [(video)](https://youtu.be/GVYLqTZpPLE)[(poster)](../files/ren22_MOPBD_ICRA_RAL_poster.pdf) in [ICRA-2022](https://www.icra2022.org/) in Philadelphia.
+* \[2022.05\] I present Multi-Objective Path-Based D* Lite [(video)](https://youtu.be/GVYLqTZpPLE)[(poster)](../files/ren22_MOPBD_ICRA_RAL_poster.pdf) at [ICRA-2022](https://www.icra2022.org/) in Philadelphia.
 * \[2022.04\] Our papers [Conflict-Based Steiner Search](http://www.roboticsproceedings.org/rss18/p058.pdf) and [Multi-Objective Ergodic Search](http://www.roboticsproceedings.org/rss18/p052.pdf) are accepted to [RSS-2022](https://roboticsconference.org/)
 * \[2022.04\] Our paper [A Lower Bounding Framework for Motion Planning amid Dynamic Obstacles in 2D](https://arxiv.org/pdf/2202.07409.pdf) is accepted to [WAFR-2022](https://wafr2022.github.io/).
 * \[2022.01\] Our paper [Multi-Objective Path-Based D* Lite](https://ieeexplore.ieee.org/abstract/document/9697421) is accepted to RA-L.
