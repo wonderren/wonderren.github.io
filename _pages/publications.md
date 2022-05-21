@@ -39,15 +39,13 @@ Subdimensional Expansion for Multi-objective Multi-agent Path Finding\
 Conference
 ------
 
-* <img src="../images/fig_cbss_random.gif" alt="" width="250" height="200" align="left" hspace="20" style=" border: #FFFFFF 2px none;">
+* <img src="../images/fig_cbss_eg.png" alt="" width="200" height="200" align="left" hspace="20" style=" border: #FFFFFF 2px none;">
 Conflict-Based Steiner Search for Multi-Agent Combinatorial Path Finding\
 	**Zhongqiang Ren**, Sivakumar Rathinam, and Howie Choset.\
 	<i>Robotics: Science and Systems (RSS)</i>, 2022.\
 [[Bibtex](https://wonderren.github.io/files/bibtex_ren22cbss.txt)]
 [[Paper](http://www.roboticsproceedings.org/rss18/p058.pdf)]
 [[Code](https://github.com/wonderren/public_pymcpf)]
-<br>
-<br>
 <br>
 <br>
 
