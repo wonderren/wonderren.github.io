@@ -18,8 +18,8 @@ Multi-Objective Path-Based D* Lite\
 [[Bibtex](https://wonderren.github.io/files/bibtex_ren22mopbd.txt)]
 [[Paper](https://ieeexplore.ieee.org/abstract/document/9697421)]
 [[Arxiv](https://arxiv.org/pdf/2108.00710.pdf)]
-[[Talk]](https://youtu.be/GVYLqTZpPLE)
-[[Poster]](../files/ren22_MOPBD_ICRA_RAL_poster.pdf)
+[[Talk](https://youtu.be/GVYLqTZpPLE)]
+[[Poster](../files/ren22_MOPBD_ICRA_RAL_poster.pdf)]
 <br>
 <br>
 <br>
