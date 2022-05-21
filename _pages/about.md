@@ -29,7 +29,7 @@ I received my Master degree from Carnegie Mellon University and B.Eng. from both
 I was a co-founder and the CTO of [BITO Robotics](https://bitorobotics.com/).
 
 My research focuses on path and motion planning for both single robot and multi-robot systems, at the intersection of artificial intelligence and optimization.
-I am currently especially interested in planning paths for multiple robots with respect to various constraints while optimizing multiple objectives by leveraging existing and advancing the frontier of heuristic search, combinatorial optimization, multi-objective optimization and ergodic coverage.
+I am currently especially interested in planning paths for multiple robots with respect to various constraints while optimizing multiple objectives by leveraging the existing and advancing the frontier of combinatorial search, multi-objective optimization and optimal control.
 
 News
 ======
