@@ -152,7 +152,8 @@ Deformed state lattice planning\
 [[Bibtex](https://wonderren.github.io/files/bibtex_ren17dslp.txt)]
 [[Paper](https://ieeexplore.ieee.org/document/8206534)]
 [[PDF](https://www.researchgate.net/profile/Zhongqiang-Ren/publication/321821716_Deformed_state_lattice_planning/links/5e9fdca6a6fdcc20bb360c44/Deformed-state-lattice-planning.pdf)]
-
+<br>
+<br>
 
 Preprint
 ------
