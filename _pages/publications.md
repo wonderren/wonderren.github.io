@@ -145,7 +145,8 @@ Geometric motion planning for systems with toroidal and cylindrical shape spaces
 <br>
 <br>
 
-* Deformed state lattice planning\
+* <img src="../images/fig_dslp.png" alt="" width="200" height="200" align="left" hspace="20" style=" border: #000000 2px none;">
+Deformed state lattice planning\
 	**Zhongqiang Ren**, Chaohui Gong, and Howie Choset.\
 	IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2017.\
 [[Bibtex](https://wonderren.github.io/files/bibtex_ren17dslp.txt)]
@@ -157,8 +158,7 @@ Preprint
 ------
 
 * Subdimensional Expansion Using Attention-Based Learning For Multi-Agent Path Finding\
-  Lakshay Virmani\*, **Zhongqiang Ren\***, Sivakumar Rathinam, and Howie Choset.\
-  (\* indicates equal contribution)\
+  Lakshay Virmani, **Zhongqiang Ren**, Sivakumar Rathinam, and Howie Choset.\
   <i>arXiv</i>\
 [[Bibtex](https://wonderren.github.io/files/bibtex_virmani22lm.txt)]
 [[Arxiv](https://arxiv.org/pdf/2109.14695.pdf)]
