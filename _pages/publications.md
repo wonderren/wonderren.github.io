@@ -55,7 +55,7 @@ Conference
 * <img src="../images/fig_emoa.png" alt="" width="200" height="200" align="left" hspace="20" style=" border: #FFFFFF 2px none;">
 Enhanced Multi-Objective A* Using Balanced Binary Search Trees\
   **Zhongqiang Ren**, Richard Zhan, Sivakumar Rathinam, Maxim Likhachev and Howie Choset.\
-  <i>International Symposium on Combinatorial Search (SoCS)</i>\
+  <i>International Symposium on Combinatorial Search (SoCS)</i>, 2022.\
 [[Bibtex](https://wonderren.github.io/files/bibtex_ren22emoa.txt)]
 [[Arxiv](https://arxiv.org/pdf/2202.08992.pdf)]
 [[Code](https://github.com/wonderren/public_emoa)]
@@ -90,7 +90,7 @@ A Local Optimization Framework for Multi-Objective Ergodic Search\
 * <img src="../images/fig_lbmp.gif" alt="" width="200" height="200" align="left" hspace="20" style=" border: #FFFFFF 2px none;">
 A Lower Bounding Framework for Motion Planning amid Dynamic Obstacles in 2D\
   **Zhongqiang Ren**, Sivakumar Rathinam and Howie Choset.\
-  <i>Workshop on Algorithmic Foundations of Robotics (WAFR)</i>\
+  <i>Workshop on Algorithmic Foundations of Robotics (WAFR)</i>, 2022.\
 [[Bibtex](https://wonderren.github.io/files/bibtex_ren22lbmp.txt)]
 [[Arxiv](https://arxiv.org/pdf/2202.07409.pdf)]
 <br>
