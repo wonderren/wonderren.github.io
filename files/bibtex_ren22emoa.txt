@@ -1,6 +1,7 @@
-@article{ren22emoa,
-  title={Enhanced Multi-Objective A* Using Balanced Binary Search Trees},
+@INPROCEEDINGS{ren22emoa, 
   author={Ren, Zhongqiang and Rathinam, Sivakumar and Likhachev, Maxim and Choset, Howie},
-  journal={arXiv preprint arXiv:2202.08992},
-  year={2022}
-}
+  title={Enhanced Multi-Objective A* Using Balanced Binary Search Trees},
+    BOOKTITLE = {Proceedings of the International Symposium on Combinatorial Search}, 
+    YEAR      = {2022}, 
+    MONTH     = {July}, 
+} 

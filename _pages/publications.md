@@ -11,6 +11,18 @@ author_profile: true
 Journal
 ------
 
+* <img src="../images/fig_mocbs.png" alt="" width="200" height="200" align="left" hspace="20" style=" border: #000000 2px none;">
+A Conflict-Based Search Framework for Multi-Objective Multi-Agent Path Finding\
+  **Zhongqiang Ren**, Sivakumar Rathinam and Howie Choset.\
+  <i>IEEE Transactions on Automation Science and Engineering (T-ASE)</i>, 2022.\
+[[Bibtex](https://wonderren.github.io/files/bibtex_ren22mocbs.txt)]
+[[Arxiv](https://arxiv.org/pdf/2101.03805.pdf)]
+[[Code](https://github.com/wonderren/public_cppmomapf)]
+<br>
+<br>
+<br>
+<br>
+
 * <img src="../images/fig_mopbd.gif" alt="" width="200" height="200" align="left" hspace="20" style=" border: #000000 2px none;">
 Multi-Objective Path-Based D* Lite\
   **Zhongqiang Ren**, Sivakumar Rathinam, Maxim Likhachev and Howie Choset.\
@@ -40,6 +52,16 @@ Subdimensional Expansion for Multi-objective Multi-agent Path Finding\
 Conference
 ------
 
+* <img src="../images/fig_emoa.png" alt="" width="200" height="200" align="left" hspace="20" style=" border: #FFFFFF 2px none;">
+Enhanced Multi-Objective A* Using Balanced Binary Search Trees\
+  **Zhongqiang Ren**, Richard Zhan, Sivakumar Rathinam, Maxim Likhachev and Howie Choset.\
+  <i>International Symposium on Combinatorial Search (SoCS)</i>\
+[[Bibtex](https://wonderren.github.io/files/bibtex_ren22emoa.txt)]
+[[Arxiv](https://arxiv.org/pdf/2202.08992.pdf)]
+[[Code](https://github.com/wonderren/public_emoa)]
+<br>
+<br>
+
 * <img src="../images/fig_cbss_eg.png" alt="" width="200" height="200" align="left" hspace="20" style=" border: #FFFFFF 2px none;">
 Conflict-Based Steiner Search for Multi-Agent Combinatorial Path Finding\
 	**Zhongqiang Ren**, Sivakumar Rathinam, and Howie Choset.\
@@ -64,6 +86,13 @@ A Local Optimization Framework for Multi-Objective Ergodic Search\
 <br>
 <br>
 <br>
+
+* <img src="../images/fig_lbmp.gif" alt="" width="200" height="200" align="left" hspace="20" style=" border: #FFFFFF 2px none;">
+A Lower Bounding Framework for Motion Planning amid Dynamic Obstacles in 2D\
+  **Zhongqiang Ren**, Sivakumar Rathinam and Howie Choset.\
+  <i>Workshop on Algorithmic Foundations of Robotics (WAFR)</i>\
+[[Bibtex](https://wonderren.github.io/files/bibtex_ren22lbmp.txt)]
+[[Arxiv](https://arxiv.org/pdf/2202.07409.pdf)]
 
 * <img src="../images/fig_lss.png" alt="" width="250" height="200" align="left" hspace="20" style=" border: #FFFFFF 2px none;">
 Loosely Synchronized Search for Multi-agent Path Finding with Asynchronous Actions\
@@ -122,19 +151,6 @@ Geometric motion planning for systems with toroidal and cylindrical shape spaces
 
 Preprint
 ------
-
-* Enhanced Multi-Objective A* Using Balanced Binary Search Trees\
-  **Zhongqiang Ren**, Sivakumar Rathinam, Maxim Likhachev and Howie Choset.\
-  <i>arXiv</i>\
-[[Bibtex](https://wonderren.github.io/files/bibtex_ren22lbmp.txt)]
-[[Arxiv](https://arxiv.org/pdf/2202.08992.pdf)]
-[[Code](https://github.com/wonderren/public_emoa)]
-
-* A Lower Bounding Framework for Motion Planning amid Dynamic Obstacles in 2D\
-  **Zhongqiang Ren**, Sivakumar Rathinam and Howie Choset.\
-  <i>arXiv</i>\
-[[Bibtex](https://wonderren.github.io/files/bibtex_ren22emoa.txt)]
-[[Arxiv](https://arxiv.org/pdf/2202.07409.pdf)]
 
 * Subdimensional Expansion Using Attention-Based Learning For Multi-Agent Path Finding\
   Lakshay Virmani\*, **Zhongqiang Ren\***, Sivakumar Rathinam, and Howie Choset.\
