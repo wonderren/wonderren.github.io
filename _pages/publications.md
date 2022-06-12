@@ -93,6 +93,10 @@ A Lower Bounding Framework for Motion Planning amid Dynamic Obstacles in 2D\
   <i>Workshop on Algorithmic Foundations of Robotics (WAFR)</i>\
 [[Bibtex](https://wonderren.github.io/files/bibtex_ren22lbmp.txt)]
 [[Arxiv](https://arxiv.org/pdf/2202.07409.pdf)]
+<br>
+<br>
+<br>
+<br>
 
 * <img src="../images/fig_lss.png" alt="" width="250" height="200" align="left" hspace="20" style=" border: #FFFFFF 2px none;">
 Loosely Synchronized Search for Multi-agent Path Finding with Asynchronous Actions\
