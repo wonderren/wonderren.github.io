@@ -18,6 +18,7 @@ A Conflict-Based Search Framework for Multi-Objective Multi-Agent Path Finding\
 [[Bibtex](https://wonderren.github.io/files/bibtex_ren22mocbs.txt)]
 [[Paper](../files/ren22_mocbs_tase_final.pdf)]
 [[Code](https://github.com/wonderren/public_cppmomapf)]
+[[ICRA-2021 Talk](https://youtu.be/KI-BVhsjg0I)]
 <br>
 <br>
 <br>
@@ -28,10 +29,8 @@ Multi-Objective Path-Based D* Lite\
   **Zhongqiang Ren**, Sivakumar Rathinam, Maxim Likhachev and Howie Choset.\
   <i>IEEE Robotics and Automation Letters (RA-L)</i>, 2022.\
 [[Bibtex](https://wonderren.github.io/files/bibtex_ren22mopbd.txt)]
-[[Paper](https://ieeexplore.ieee.org/abstract/document/9697421)]
-[[Arxiv](https://arxiv.org/pdf/2108.00710.pdf)]
+[[Paper](../files/ren22_mopbd-RAL_ICRA22.pdf)]
 [[Talk](https://youtu.be/GVYLqTZpPLE)]
-[[Poster](../files/ren22_MOPBD_ICRA_RAL_poster.pdf)]
 <br>
 <br>
 <br>
@@ -42,8 +41,7 @@ Subdimensional Expansion for Multi-objective Multi-agent Path Finding\
 	**Zhongqiang Ren**, Sivakumar Rathinam, and Howie Choset.\
 	<i>IEEE Robotics and Automation Letters (RA-L)</i>, 2021.\
 [[Bibtex](https://wonderren.github.io/files/bibtex_ren21momstar.txt)]
-[[Paper](https://ieeexplore.ieee.org/document/9484849)]
-[[Arxiv](https://arxiv.org/pdf/2102.01353.pdf)]
+[[Paper](../files/ren21-MOMstar_RAL_IROS.pdf)] 
 [[Talk](https://youtu.be/pfeBNvOqzvE)]
 [[Code](https://github.com/wonderren/public_cppmomapf)]
 <br>
@@ -57,7 +55,7 @@ Enhanced Multi-Objective A* Using Balanced Binary Search Trees\
   **Zhongqiang Ren**, Richard Zhan, Sivakumar Rathinam, Maxim Likhachev and Howie Choset.\
   <i>International Symposium on Combinatorial Search (SoCS)</i>, 2022.\
 [[Bibtex](https://wonderren.github.io/files/bibtex_ren22emoa.txt)]
-[[Arxiv](https://arxiv.org/pdf/2202.08992.pdf)]
+[[Paper](../files/ren22_emoa_socs.pdf)]
 [[Code](https://github.com/wonderren/public_emoa)]
 <br>
 <br>
@@ -67,8 +65,9 @@ Conflict-Based Steiner Search for Multi-Agent Combinatorial Path Finding\
 	**Zhongqiang Ren**, Sivakumar Rathinam, and Howie Choset.\
 	<i>Robotics: Science and Systems (RSS)</i>, 2022.\
 [[Bibtex](https://wonderren.github.io/files/bibtex_ren22cbss.txt)]
-[[Paper](http://www.roboticsproceedings.org/rss18/p058.pdf)]
+[[Paper](../files/ren22_cbss_rss.pdf)]
 [[Code](https://github.com/wonderren/public_pymcpf)]
+[[talk](https://youtu.be/V17vQSZP5Zs?t=2853)]
 <br>
 <br>
 <br>
@@ -80,8 +79,9 @@ A Local Optimization Framework for Multi-Objective Ergodic Search\
 	**Zhongqiang Ren**, Akshaya Kesarimangalam Srinivasan, Howard Coffin, Ian Abraham and Howie Choset.\
 	<i>Robotics: Science and Systems (RSS)</i>, 2022.\
 [[Bibtex](https://wonderren.github.io/files/bibtex_ren22moes.txt)]
-[[Paper](http://www.roboticsproceedings.org/rss18/p052.pdf)]
+[[Paper](../files/ren22_moes_rss.pdf)]
 [[Code](https://github.com/wonderren/public_moes)]
+[[talk](https://youtu.be/A6rRCVtB2sM?t=1548)]
 <br>
 <br>
 <br>
@@ -92,7 +92,8 @@ A Lower Bounding Framework for Motion Planning amid Dynamic Obstacles in 2D\
   **Zhongqiang Ren**, Sivakumar Rathinam and Howie Choset.\
   <i>Workshop on Algorithmic Foundations of Robotics (WAFR)</i>, 2022.\
 [[Bibtex](https://wonderren.github.io/files/bibtex_ren22lbmp.txt)]
-[[Arxiv](https://arxiv.org/pdf/2202.07409.pdf)]
+[[Paper](../files/ren22_lbmp_wafr.pdf)]
+[[talk](https://youtu.be/gM_w2HAYJww?t=28388)]
 <br>
 <br>
 <br>
@@ -103,8 +104,7 @@ Loosely Synchronized Search for Multi-agent Path Finding with Asynchronous Actio
 	**Zhongqiang Ren**, Sivakumar Rathinam, and Howie Choset.\
 	<i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</i>, 2021.\
 [[Bibtex](https://wonderren.github.io/files/bibtex_ren21lss.txt)]
-[[Paper](https://ieeexplore.ieee.org/document/9636683)]
-[[Arxiv](https://arxiv.org/pdf/2103.04516.pdf)]
+[[Paper](../files/ren21_lss_iros.pdf)]
 [[Talk](https://youtu.be/u0WSXr3yjhc)]
 <br>
 <br>
@@ -114,8 +114,7 @@ Multi-objective Conflict-based Search for Multi-agent Path Finding\
 	**Zhongqiang Ren**, Sivakumar Rathinam, and Howie Choset.\
 	<i>IEEE International Conference on Robotics and Automation (ICRA)</i>, 2021.\
 [[Bibtex](https://wonderren.github.io/files/bibtex_ren21mocbs.txt)]
-[[Paper](https://ieeexplore.ieee.org/document/9560985)]
-[[Arxiv](https://arxiv.org/pdf/2101.03805.pdf)]
+[[Paper](../files/ren21_mocbs_icra21.pdf)]
 [[Talk](https://youtu.be/KI-BVhsjg0I)]
 [[Code](https://github.com/wonderren/public_cppmomapf)]
 <br>
@@ -128,8 +127,7 @@ MS*: A New Exact Algorithm for Multi-agent Simultaneous Multi-goal Sequencing an
 	**Zhongqiang Ren**, Sivakumar Rathinam, and Howie Choset.\
 	<i>IEEE International Conference on Robotics and Automation (ICRA)</i>, 2021.\
 [[Bibtex](https://wonderren.github.io/files/bibtex_ren21ms.txt)]
-[[Paper](https://ieeexplore.ieee.org/document/9561779)]
-[[PDF](https://arxiv.org/pdf/2103.09979)]
+[[Paper](../files/ren21-MSstar.pdf)]
 [[Talk](https://youtu.be/cjwO4yycfpo)]
 <br>
 <br>
