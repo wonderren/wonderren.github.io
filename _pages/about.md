@@ -34,22 +34,33 @@ I am currently especially interested in planning paths for multiple robots with 
 News
 ======
 
+* \[2022.06\] I present Multi-Agent Combinatorial Path Finding [(talk)](https://youtu.be/V17vQSZP5Zs?t=2853) at [RSS-2022](http://www.roboticsproceedings.org/rss18/index.html).
+* \[2022.06\] I present Multi-Objective Ergodic Search [(talk)](https://youtu.be/A6rRCVtB2sM?t=1548) at [RSS-2022](http://www.roboticsproceedings.org/rss18/index.html).
+* \[2022.06\] I present Lower Bound Motion Planning [(talk)](https://youtu.be/gM_w2HAYJww?t=28388) at [WAFR-2022](https://wafr2022.github.io/).
 * \[2022.06\] Our paper [Enhanced Multi-Objective A*](https://arxiv.org/pdf/2202.08992.pdf) is accepted to [SOCS-2022](https://sites.google.com/unibs.it/socs2022).
 * \[2022.05\] I present Multi-Objective Path-Based D* Lite [(video)](https://youtu.be/GVYLqTZpPLE)[(poster)](../files/ren22_MOPBD_ICRA_RAL_poster.pdf) at [ICRA-2022](https://www.icra2022.org/) in Philadelphia.
-* \[2022.04\] Our papers [Conflict-Based Steiner Search](http://www.roboticsproceedings.org/rss18/p058.pdf) and [Multi-Objective Ergodic Search](http://www.roboticsproceedings.org/rss18/p052.pdf) are accepted to [RSS-2022](https://roboticsconference.org/)
+* \[2022.04\] Our papers [Multi-Agent Combinatorial Path Finding](http://www.roboticsproceedings.org/rss18/p058.pdf) and [Multi-Objective Ergodic Search](http://www.roboticsproceedings.org/rss18/p052.pdf) are accepted to [RSS-2022](https://roboticsconference.org/)
 * \[2022.04\] Our paper [A Lower Bounding Framework for Motion Planning amid Dynamic Obstacles in 2D](https://arxiv.org/pdf/2202.07409.pdf) is accepted to [WAFR-2022](https://wafr2022.github.io/).
 * \[2022.01\] Our paper [Multi-Objective Path-Based D* Lite](https://ieeexplore.ieee.org/abstract/document/9697421) is accepted to RA-L.
-* \[2021.09\] I give virtual talks about [Multi-Objective M*](https://www.youtube.com/watch?v=pfeBNvOqzvE) and [Loosely-Synchronized Search](https://www.youtube.com/watch?v=u0WSXr3yjhc&t=2s) at [IROS-2021](https://www.iros2021.org/).
-* \[2021.05\] I give virtual talks about [Multi-Objective Conflict-Based Search](https://www.youtube.com/watch?v=KI-BVhsjg0I&t=9s) and [MS*](https://www.youtube.com/watch?v=cjwO4yycfpo&t=20s) at [ICRA-2021](https://ieeexplore.ieee.org/xpl/conhome/9560720/proceeding).
 <details>
   <summary>Show more</summary>
   <ul>
     <li>
+      [2021.09] I give virtual talks about <a href="https://www.youtube.com/watch?v=pfeBNvOqzvE">Multi-Objective M*</a> and <a href="https://www.youtube.com/watch?v=u0WSXr3yjhc&t=2s">Loosely-Synchronized Search</a> at IROS-2021.
+    </li>
+
+    <li>
+      [2021.05] I give virtual talks about <a href="https://www.youtube.com/watch?v=KI-BVhsjg0I&t=9s">Multi-Objective Conflict-Based Search</a> and <a href="https://www.youtube.com/watch?v=cjwO4yycfpo&t=20s">MS*</a> at ICRA-2021.
+    </li>
+
+    <li>
       [2020.10] As the CTO of BITO Robotics, I give a talk at a <a href="https://www.yun-live.com/article_pc/3459">salon</a> about industrial intelligence in Xiamen, China.
     </li>
+
     <li>
       [2020.07] As the CTO of BITO Robotics, I give a virtual <a href="https://www.aiimooc.com/mall/preshow-htm-itemid-605.html">talk</a> about mobile robots in industrial applications.
     </li>
+
     <li>
       [2019.12] As the CTO of BITO Robotics, I give a <a href="https://www.sohu.com/a/360892392_120166828">talk</a> about AGV and logistics at Gaogong Forum in Shenzhen, China.
     </li>
