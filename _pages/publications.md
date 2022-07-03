@@ -28,10 +28,10 @@ A Conflict-Based Search Framework for Multi-Objective Multi-Agent Path Finding\
 Multi-Objective Path-Based D* Lite\
   **Zhongqiang Ren**, Sivakumar Rathinam, Maxim Likhachev and Howie Choset.\
   <i>IEEE Robotics and Automation Letters (RA-L)</i>, 2022.\
+  (Presented at ICRA-2022)\
 [[Bibtex](https://wonderren.github.io/files/bibtex_ren22mopbd.txt)]
 [[Paper](../files/ren22_mopbd-RAL_ICRA22.pdf)]
 [[Talk](https://youtu.be/GVYLqTZpPLE)]
-<br>
 <br>
 <br>
 <br>
@@ -40,6 +40,7 @@ Multi-Objective Path-Based D* Lite\
 Subdimensional Expansion for Multi-objective Multi-agent Path Finding\
 	**Zhongqiang Ren**, Sivakumar Rathinam, and Howie Choset.\
 	<i>IEEE Robotics and Automation Letters (RA-L)</i>, 2021.\
+	(Presented at IROS-2021)\
 [[Bibtex](https://wonderren.github.io/files/bibtex_ren21momstar.txt)]
 [[Paper](../files/ren21-MOMstar_RAL_IROS.pdf)] 
 [[Talk](https://youtu.be/pfeBNvOqzvE)]
