@@ -62,6 +62,10 @@ News
     </li>
 
     <li>
+      [2020.07] As the CTO of BITO Robotics, I give a <a href="https://www.jiqizhixin.com/articles/2020-07-03-24">talk</a> at World AI Conference (WAIC).
+    </li>
+
+    <li>
       [2019.12] As the CTO of BITO Robotics, I give a <a href="https://www.sohu.com/a/360892392_120166828">talk</a> about AGV and logistics at Gaogong Forum in Shenzhen, China.
     </li>
   </ul>
