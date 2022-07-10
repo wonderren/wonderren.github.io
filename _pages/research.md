@@ -5,6 +5,11 @@ permalink: /research/
 author_profile: true
 ---
 
+My research focuses on path and motion planning for single and multi-robot, at the intersection of artificial intelligence and optimization. I am currently especially interested in planning paths for multiple robots with respect to various constraints while optimizing multiple objectives by leveraging the existing and advancing the frontier of combinatorial search, multi-objective optimization and optimal control.
+
+Most of my past research work, more or less, originates from my experience in [BITO Robotics](https://bitorobotics.com/), where I was deeply involved in several projects that develop and deploy fleets of mobile robots in factories to transport materials. This experience taught me the importance to coordinate the motion of the robots to avoid deadlock within a human designed road network, the importance of the solution quality that directly affects the logistic cost and efficiency, and the multiple conflicting objectives that arise in the robot deployment and daily operation.
+
+
 Multi-Agent Path Planning
 ------
 Planning collision-free paths for multiple agents from their start to goal locations while minimizing the arrival times of the agents is of fundamental importance in many applications (e.g. logistics in warehouse, manufacturing, port, airport). To this end, I have developed algorithms that can (i) direct robots to visit multiple intermediate target locations (for the purpose of information gathering or pick-and-place items) [A1,A2]; (ii) optimize multiple conflicting criteria, such as path length and risk, by identifying the entire Pareto-optimal front [B1,B2]; (iii) robots that can move with different speeds [C1].
