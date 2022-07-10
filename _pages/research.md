@@ -60,7 +60,7 @@ Subdimensional Expansion for Multi-objective Multi-agent Path Finding\
 <br>
 <br>
 
-* [C1] <img src="../images/fig_lss.png" alt="" width="250" height="200" align="left" hspace="20" style=" border: #FFFFFF 2px none;">
+* [C1] <img src="../images/fig_lss.png" alt="" width="200" height="200" align="left" hspace="20" style=" border: #FFFFFF 2px none;">
 Loosely Synchronized Search for Multi-agent Path Finding with Asynchronous Actions\
 	**Zhongqiang Ren**, Sivakumar Rathinam, and Howie Choset.\
 	<i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</i>, 2021.\
