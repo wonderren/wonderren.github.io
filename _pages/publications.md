@@ -26,7 +26,7 @@ Multi-Objective Safe-Interval Path Planning With Dynamic Obstacles\
 A Conflict-Based Search Framework for Multi-Objective Multi-Agent Path Finding\
   **Zhongqiang Ren**, Sivakumar Rathinam and Howie Choset.\
   <i>IEEE Transactions on Automation Science and Engineering (T-ASE)</i>, 2022.\
-[[Bibtex](https://wonderren.github.io/files/bibtex_ren22mocbs.txt)]
+[[Bibtex](https://wonderren.github.io/files/bibtex_ren21mocbs_tase.txt)]
 [[Paper](../files/ren22_mocbs_tase_final.pdf)]
 [[Code](https://github.com/wonderren/public_cppmomapf)]
 [[ICRA-2021 Talk](https://youtu.be/KI-BVhsjg0I)]

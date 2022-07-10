@@ -81,6 +81,17 @@
   doi={10.1109/LRA.2021.3096744}
 }
 
+@ARTICLE{ren22mocbs_tase,
+  author={Ren, Zhongqiang and Rathinam, Sivakumar and Choset, Howie},
+  journal={IEEE Transactions on Automation Science and Engineering}, 
+  title={A Conflict-Based Search Framework for Multiobjective Multiagent Path Finding}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-13},
+  doi={10.1109/TASE.2022.3183183}
+}
+
 @inproceedings{ren21mocbs,
     title={Multi-objective Conflict-based Search for Multi-agent Path Finding},
     author={Ren, Zhongqiang and Rathinam, Sivakumar and Choset, Howie},
