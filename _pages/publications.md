@@ -11,6 +11,17 @@ author_profile: true
 Journal
 ------
 
+* <img src="../images/fig_mosipp.gif" alt="" width="200" height="200" align="left" hspace="20" style=" border: #000000 2px none;">
+Multi-Objective Safe-Interval Path Planning With Dynamic Obstacles\
+  **Zhongqiang Ren**, Sivakumar Rathinam, Maxim Likhachev and Howie Choset.\
+  <i>IEEE Robotics and Automation Letters (RA-L)</i>, 2022.\
+  (Presentation at IROS-2022)\
+[[Bibtex](https://wonderren.github.io/files/bibtex_ren22mosipp.txt)]
+[[Paper](../files/ren22_mosipp_RAL_IROS22.pdf)]
+<br>
+<br>
+<br>
+
 * <img src="../images/fig_mocbs.png" alt="" width="200" height="200" align="left" hspace="20" style=" border: #000000 2px none;">
 A Conflict-Based Search Framework for Multi-Objective Multi-Agent Path Finding\
   **Zhongqiang Ren**, Sivakumar Rathinam and Howie Choset.\
@@ -28,7 +39,7 @@ A Conflict-Based Search Framework for Multi-Objective Multi-Agent Path Finding\
 Multi-Objective Path-Based D* Lite\
   **Zhongqiang Ren**, Sivakumar Rathinam, Maxim Likhachev and Howie Choset.\
   <i>IEEE Robotics and Automation Letters (RA-L)</i>, 2022.\
-  (Presented at ICRA-2022)\
+  (Presentation at ICRA-2022)\
 [[Bibtex](https://wonderren.github.io/files/bibtex_ren22mopbd.txt)]
 [[Paper](../files/ren22_mopbd-RAL_ICRA22.pdf)]
 [[Talk](https://youtu.be/GVYLqTZpPLE)]
@@ -40,7 +51,7 @@ Multi-Objective Path-Based D* Lite\
 Subdimensional Expansion for Multi-objective Multi-agent Path Finding\
 	**Zhongqiang Ren**, Sivakumar Rathinam, and Howie Choset.\
 	<i>IEEE Robotics and Automation Letters (RA-L)</i>, 2021.\
-	(Presented at IROS-2021)\
+	(Presentation at IROS-2021)\
 [[Bibtex](https://wonderren.github.io/files/bibtex_ren21momstar.txt)]
 [[Paper](../files/ren21-MOMstar_RAL_IROS.pdf)] 
 [[Talk](https://youtu.be/pfeBNvOqzvE)]
