@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My research focuses on path and motion planning for single and multi-robot, at the intersection of artificial intelligence and optimization. I am currently especially interested in planning paths for multiple robots with respect to various constraints while optimizing multiple objectives by leveraging the existing and advancing the frontier of combinatorial search, multi-objective optimization and optimal control.
+My research focuses on path and motion planning for single and multiple robots, at the intersection of artificial intelligence and optimization. I am currently especially interested in planning paths for multiple robots with respect to various constraints while optimizing multiple objectives by leveraging the existing and advancing the frontier of combinatorial search, multi-objective optimization and optimal control.
 
 Most of my research work, more or less, originates from my experience in [BITO Robotics](https://bitorobotics.com/), where I was deeply involved in several projects that develop and deploy fleets of mobile robots in factories to transport materials. This experience taught me the importance to coordinate the motion of the robots to avoid deadlock within a human designed road network, the importance of the solution quality that directly affects the logistic cost and efficiency of a factory, and the multiple conflicting objectives that arise in the robot deployment and daily operation.
 
@@ -80,7 +80,7 @@ Multi-Objective Path Planning
 Many robotic applications involve planning a path or trajectory while optimizing multiple conflicting objectives (such as path length, risk, distance-to-obstacles, arrival times, etc). A common and popular strategy is to take the weighted-sum of the objectives, which leads to a scalarized single-objective problem that can be solved by the existing algorithms. I believe that simply scalarizing the objectives (with some assumed weight) may often over-simplify the problem, and multi-objective planning techniques can unveil the inherent trade-off between objectives to give us new insights. I therefore develop a family of multi-objective planning algorithms with solution quality guarantees. These algorithms expedite the existing multi-objective search techniques for up to an order of magnitude [D1], handle dynamic environments [D2,D3], consider multi-agent systems [B1,B2], and gather information of different types [F1].
 
 * [D1] <img src="../images/fig_emoa.png" alt="" width="200" height="200" align="left" hspace="20" style=" border: #FFFFFF 2px none;">
-Enhanced Multi-Objective A* Using Balanced Binary Search Trees\
+Enhanced Multi-Objective A\* Using Balanced Binary Search Trees\
   **Zhongqiang Ren**, Richard Zhan, Sivakumar Rathinam, Maxim Likhachev and Howie Choset.\
   <i>International Symposium on Combinatorial Search (SoCS)</i>, 2022.\
 [[Bibtex](https://wonderren.github.io/files/bibtex_ren22emoa.txt)]
