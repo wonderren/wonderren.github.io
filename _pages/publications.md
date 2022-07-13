@@ -155,7 +155,7 @@ Geometric motion planning for systems with toroidal and cylindrical shape spaces
 <br>
 <br>
 
-* <img src="../images/fig_dslp.png" alt="" width="200" height="200" align="left" hspace="20" style=" border: #000000 2px none;">
+* <img src="../images/fig_dslp.png" alt="" width="250" height="200" align="left" hspace="20" style=" border: #000000 2px none;">
 Deformed state lattice planning\
 	**Zhongqiang Ren**, Chaohui Gong, and Howie Choset.\
 	IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2017.\
