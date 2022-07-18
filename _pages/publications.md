@@ -18,7 +18,7 @@ Multi-Objective Safe-Interval Path Planning With Dynamic Obstacles\
   (Presentation at IROS-2022)\
 [[Bibtex](https://wonderren.github.io/files/bibtex_ren22mosipp.txt)]
 [[Paper](../files/ren22_mosipp_RAL_IROS22.pdf)]
-[[Code]](https://github.com/wonderren/public_mosipp)
+[[Code](https://github.com/wonderren/public_mosipp)]
 <br>
 <br>
 <br>
