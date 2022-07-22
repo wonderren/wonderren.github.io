@@ -70,6 +70,7 @@ Enhanced Multi-Objective A* Using Balanced Binary Search Trees\
 [[Bibtex](https://wonderren.github.io/files/bibtex_ren22emoa.txt)]
 [[Paper](../files/ren22_emoa_socs.pdf)]
 [[Code](https://github.com/wonderren/public_emoa)]
+[[Talk](https://youtu.be/ej_a7IG4s4w)]
 <br>
 <br>
 

@@ -34,6 +34,7 @@ I am currently especially interested in planning paths for multiple robots with 
 News
 ======
 
+* \[2022.07\] I present Enhanced Multi-Objective A* [(talk)](https://youtu.be/ej_a7IG4s4w) at SOCS-2022.
 * \[2022.06\] I present Multi-Agent Combinatorial Path Finding [(talk)](https://youtu.be/V17vQSZP5Zs?t=2853) at RSS-2022.
 * \[2022.06\] I present Multi-Objective Ergodic Search [(talk)](https://youtu.be/A6rRCVtB2sM?t=1548) at RSS-2022.
 * \[2022.06\] I present Lower Bound Motion Planning [(talk)](https://youtu.be/gM_w2HAYJww?t=28388) at WAFR-2022.
