@@ -10,7 +10,7 @@ author_profile: true
 Journal
 ------
 
-* Multi-Objective Safe-Interval Path Planning With Dynamic Obstacles\
+* [J4] Multi-Objective Safe-Interval Path Planning With Dynamic Obstacles\
   **Zhongqiang Ren**, Sivakumar Rathinam, Maxim Likhachev and Howie Choset.\
   <i>IEEE Robotics and Automation Letters (RA-L)</i>, 2022.\
   (Presentation at IROS-2022)\
@@ -18,7 +18,7 @@ Journal
 [[Paper](../files/ren22_mosipp_RAL_IROS22.pdf)]
 [[Code](https://github.com/wonderren/public_mosipp)]
 
-* A Conflict-Based Search Framework for Multi-Objective Multi-Agent Path Finding\
+* [J3] A Conflict-Based Search Framework for Multi-Objective Multi-Agent Path Finding\
   **Zhongqiang Ren**, Sivakumar Rathinam and Howie Choset.\
   <i>IEEE Transactions on Automation Science and Engineering (T-ASE)</i>, 2022.\
 [[Bibtex](https://wonderren.github.io/files/bibtex_ren21mocbs_tase.txt)]
@@ -26,7 +26,7 @@ Journal
 [[Code](https://github.com/wonderren/public_cppmomapf)]
 [[ICRA-2021 Talk](https://youtu.be/KI-BVhsjg0I)]
 
-* Multi-Objective Path-Based D* Lite\
+* [J2] Multi-Objective Path-Based D* Lite\
   **Zhongqiang Ren**, Sivakumar Rathinam, Maxim Likhachev and Howie Choset.\
   <i>IEEE Robotics and Automation Letters (RA-L)</i>, 2022.\
   (Presentation at ICRA-2022)\
@@ -34,7 +34,7 @@ Journal
 [[Paper](../files/ren22_mopbd-RAL_ICRA22.pdf)]
 [[Talk](https://youtu.be/GVYLqTZpPLE)]
 
-* Subdimensional Expansion for Multi-objective Multi-agent Path Finding\
+* [J1] Subdimensional Expansion for Multi-objective Multi-agent Path Finding\
 	**Zhongqiang Ren**, Sivakumar Rathinam, and Howie Choset.\
 	<i>IEEE Robotics and Automation Letters (RA-L)</i>, 2021.\
 	(Presentation at IROS-2021)\
@@ -47,7 +47,7 @@ Journal
 Conference
 ------
 
-* Enhanced Multi-Objective A* Using Balanced Binary Search Trees\
+* [C9] Enhanced Multi-Objective A* Using Balanced Binary Search Trees\
   **Zhongqiang Ren**, Richard Zhan, Sivakumar Rathinam, Maxim Likhachev and Howie Choset.\
   <i>International Symposium on Combinatorial Search (SoCS)</i>, 2022.\
 [[Bibtex](https://wonderren.github.io/files/bibtex_ren22emoa.txt)]
@@ -55,7 +55,7 @@ Conference
 [[Code](https://github.com/wonderren/public_emoa)]
 [[Talk](https://youtu.be/ej_a7IG4s4w)]
 
-* Conflict-Based Steiner Search for Multi-Agent Combinatorial Path Finding\
+* [C8] Conflict-Based Steiner Search for Multi-Agent Combinatorial Path Finding\
 	**Zhongqiang Ren**, Sivakumar Rathinam, and Howie Choset.\
 	<i>Robotics: Science and Systems (RSS)</i>, 2022.\
 [[Bibtex](https://wonderren.github.io/files/bibtex_ren22cbss.txt)]
@@ -64,7 +64,7 @@ Conference
 [[talk](https://youtu.be/V17vQSZP5Zs?t=2853)]
 
 
-* A Local Optimization Framework for Multi-Objective Ergodic Search\
+* [C7] A Local Optimization Framework for Multi-Objective Ergodic Search\
 	**Zhongqiang Ren**, Akshaya Kesarimangalam Srinivasan, Howard Coffin, Ian Abraham and Howie Choset.\
 	<i>Robotics: Science and Systems (RSS)</i>, 2022.\
 [[Bibtex](https://wonderren.github.io/files/bibtex_ren22moes.txt)]
@@ -72,21 +72,21 @@ Conference
 [[Code](https://github.com/wonderren/public_moes)]
 [[talk](https://youtu.be/A6rRCVtB2sM?t=1548)]
 
-* A Lower Bounding Framework for Motion Planning amid Dynamic Obstacles in 2D\
+* [C6] A Lower Bounding Framework for Motion Planning amid Dynamic Obstacles in 2D\
   **Zhongqiang Ren**, Sivakumar Rathinam and Howie Choset.\
   <i>Workshop on Algorithmic Foundations of Robotics (WAFR)</i>, 2022.\
 [[Bibtex](https://wonderren.github.io/files/bibtex_ren22lbmp.txt)]
 [[Paper](../files/ren22_lbmp_wafr.pdf)]
 [[talk](https://youtu.be/gM_w2HAYJww?t=28388)]
 
-* Loosely Synchronized Search for Multi-agent Path Finding with Asynchronous Actions\
+* [C5] Loosely Synchronized Search for Multi-agent Path Finding with Asynchronous Actions\
 	**Zhongqiang Ren**, Sivakumar Rathinam, and Howie Choset.\
 	<i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</i>, 2021.\
 [[Bibtex](https://wonderren.github.io/files/bibtex_ren21lss.txt)]
 [[Paper](../files/ren21_lss_iros.pdf)]
 [[Talk](https://youtu.be/u0WSXr3yjhc)]
 
-* Multi-objective Conflict-based Search for Multi-agent Path Finding\
+* [C4] Multi-objective Conflict-based Search for Multi-agent Path Finding\
 	**Zhongqiang Ren**, Sivakumar Rathinam, and Howie Choset.\
 	<i>IEEE International Conference on Robotics and Automation (ICRA)</i>, 2021.\
 [[Bibtex](https://wonderren.github.io/files/bibtex_ren21mocbs.txt)]
@@ -94,21 +94,21 @@ Conference
 [[Talk](https://youtu.be/KI-BVhsjg0I)]
 [[Code](https://github.com/wonderren/public_cppmomapf)]
 
-* MS*: A New Exact Algorithm for Multi-agent Simultaneous Multi-goal Sequencing and Path Finding\
+* [C3 ]MS*: A New Exact Algorithm for Multi-agent Simultaneous Multi-goal Sequencing and Path Finding\
 	**Zhongqiang Ren**, Sivakumar Rathinam, and Howie Choset.\
 	<i>IEEE International Conference on Robotics and Automation (ICRA)</i>, 2021.\
 [[Bibtex](https://wonderren.github.io/files/bibtex_ren21ms.txt)]
 [[Paper](../files/ren21-MSstar.pdf)]
 [[Talk](https://youtu.be/cjwO4yycfpo)]
 
-* Geometric motion planning for systems with toroidal and cylindrical shape spaces\
+* [C2] Geometric motion planning for systems with toroidal and cylindrical shape spaces\
 	Chaohui Gong, **Zhongqiang Ren**, Julian Whitman, Jaskaran Grover, Baxi Chong, and Howie Choset.\
 	Dynamic Systems and Control Conference, American Society of Mechanical Engineers, 2018.\
 [[Bibtex](https://wonderren.github.io/files/bibtex_gong18torus.txt)]
 [[Paper](https://asmedigitalcollection.asme.org/DSCC/proceedings-abstract/DSCC2018/51913/V003T32A013/270996)]
 [[PDF](https://d1wqtxts1xzle7.cloudfront.net/57737478/DSCC2018-9144.pdf?1541912930=&response-content-disposition=inline%3B+filename%3DGeometric_Motion_Planning_For_Systems_Wi.pdf&Expires=1616924915&Signature=KuFlGSqfnphvOLhbK0Y33d4GZMikmQDXVFK1LDSjJ49hjrZof1sG8xlSdN-gVRQXcFqH9RSK4QV~7ly7Gp5OP9L5NiIqtJpL9XC80kV7gpl8-kGycqKsuy7T5viCGfuKTFeCUDu88YEaI60Ko9wKl8xgKXzHJDHc~L2SOCZfQic0iIw6Jr3Pp5e60X9C8Y2UvqlY8CnLrgOUc~TkN8w8t3kqUl~90KBEtKRvhiPJTk68D7dxPkf5ywee4a8wEDqmGezq34jkf1S4WyooKVlRxZ5LFbTGdVB75oVKgl1sqKi52LjsRanxeAHDqj~XsCGN4867qfEFV-uRnabb~iuN3g__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)]
 
-* Deformed state lattice planning\
+* [C1] Deformed state lattice planning\
 	**Zhongqiang Ren**, Chaohui Gong, and Howie Choset.\
 	IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2017.\
 [[Bibtex](https://wonderren.github.io/files/bibtex_ren17dslp.txt)]
