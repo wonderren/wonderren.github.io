@@ -5,14 +5,12 @@ permalink: /research/
 author_profile: true
 ---
 
-My research focuses on path and motion planning for single and multiple robots, at the intersection of artificial intelligence and optimization. I am currently especially interested in planning paths for multiple robots with respect to various constraints while optimizing multiple objectives by leveraging the existing and advancing the frontier of combinatorial search, multi-objective optimization and optimal control.
-
-Most of my research ideas, more or less, originate from my experience in [BITO Robotics](https://bitorobotics.com/en/), where I was deeply involved in several projects that develop and deploy fleets of mobile robots in factories to transport materials. This experience taught me the importance to coordinate the motion of the robots to avoid deadlock within a human designed road network, the importance of the solution quality that directly affects the logistic cost and efficiency of a factory, and the multiple conflicting objectives that arise in the robot deployment and daily operation.
+My research focuses on solving fundamental path and motion planning problems for single and multiple robots, by leveraging and advancing the frontier of multi-agent planning, combinatorial search and optimal control. These problems are often NP-hard, and my research exploits the underlying structure of these problems to develop algorithms that balance between runtime efficiency and solution quality guarantees, while being deployable to physical robots. These problems often arise in warehouse logistics, manufacturing and search-and-rescue. Most of my existing research is motivated by my experience prior to my PhD, where I co-founded a startup called [BITO Robotics](https://bitorobotics.com/en/) and was deeply involved in developing and deploying fleets of mobile robots in factories to transport materials.
 
 
 Multi-Agent Path Planning
 ------
-Planning collision-free paths for multiple agents from their start to goal locations while minimizing the arrival times of the agents is of fundamental importance in many applications (e.g. logistics in warehouse, manufacturing, port, airport). To this end, I have developed algorithms that can (i) direct robots to visit multiple intermediate target locations (for the purpose of information gathering or pick-and-place items) [A1,A2]; (ii) optimize multiple conflicting criteria, such as path length and risk, by identifying the entire Pareto-optimal front [B1,B2]; (iii) robots that can move with different speeds [C1].
+In structured and cluttered environments such as a factory, a team of robots with different capabilities (e.g. sensors or actuators) needs to move from one location to another for the purpose of information gathering or material transportation. The robots have to coordinate their motion to avoid collision while allocating each task to a robot with the right capability. To this end, as an extension of the existing techniques (such as multi-agent path finding, multiple traveling salesman problems, etc), we developed novel multi-agent path planners to solve problems that require (i) directing robots to visit multiple intermediate target locations [A1,A2], (ii) coordinating robots that move with different speeds [B1], (iii) computing solutions that trade-off between multiple path criteria [C1,C2]. These multi-agent planning problems are challenging due to the so-called curse of dimensionality as the search space grows exponentially w.r.t. the number of agents and the number of target locations to be visited. The key insight behind our algorithms is to dynamically modify (while attempting to bound) the dimension of the search space based on both the structure of the problem and the interaction between the robots. These algorithms advance the frontier of multi-agent planning by enabling new features for multi-agent systems while ensuring solution quality guarantees.
 
 * [A1] <img src="../images/fig_cbss_eg.png" alt="" width="200" height="200" align="left" hspace="20" style=" border: #FFFFFF 2px none;">
 Conflict-Based Steiner Search for Multi-Agent Combinatorial Path Finding\
@@ -38,8 +36,17 @@ MS*: A New Exact Algorithm for Multi-agent Simultaneous Multi-goal Sequencing an
 <br>
 <br>
 
+* [B1] <img src="../images/fig_lss.png" alt="" width="200" height="200" align="left" hspace="20" style=" border: #FFFFFF 2px none;">
+Loosely Synchronized Search for Multi-agent Path Finding with Asynchronous Actions\
+  **Zhongqiang Ren**, Sivakumar Rathinam, and Howie Choset.\
+  <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</i>, 2021.\
+[[Bibtex](https://wonderren.github.io/files/bibtex_ren21lss.txt)]
+[[Paper](../files/ren21_lss_iros.pdf)]
+[[Talk](https://youtu.be/u0WSXr3yjhc)]
+<br>
+<br>
 
-* [B1] <img src="../images/fig_mocbs.png" alt="" width="200" height="200" align="left" hspace="20" style=" border: #000000 2px none;">
+* [C1] <img src="../images/fig_mocbs.png" alt="" width="200" height="200" align="left" hspace="20" style=" border: #000000 2px none;">
 A Conflict-Based Search Framework for Multi-Objective Multi-Agent Path Finding\
   **Zhongqiang Ren**, Sivakumar Rathinam and Howie Choset.\
   <i>IEEE Transactions on Automation Science and Engineering (T-ASE)</i>, 2022.\
@@ -52,8 +59,7 @@ A Conflict-Based Search Framework for Multi-Objective Multi-Agent Path Finding\
 <br>
 <br>
 
-
-* [B2] <img src="../images/fig_MOMstar.png" alt="" width="200" height="200" align="left" hspace="20" style=" border: #FFFFFF 2px none;">
+* [C2] <img src="../images/fig_MOMstar.png" alt="" width="200" height="200" align="left" hspace="20" style=" border: #FFFFFF 2px none;">
 Subdimensional Expansion for Multi-objective Multi-agent Path Finding\
 	**Zhongqiang Ren**, Sivakumar Rathinam, and Howie Choset.\
 	<i>IEEE Robotics and Automation Letters (RA-L)</i>, 2021.\
@@ -65,19 +71,9 @@ Subdimensional Expansion for Multi-objective Multi-agent Path Finding\
 <br>
 <br>
 
-* [C1] <img src="../images/fig_lss.png" alt="" width="200" height="200" align="left" hspace="20" style=" border: #FFFFFF 2px none;">
-Loosely Synchronized Search for Multi-agent Path Finding with Asynchronous Actions\
-	**Zhongqiang Ren**, Sivakumar Rathinam, and Howie Choset.\
-	<i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</i>, 2021.\
-[[Bibtex](https://wonderren.github.io/files/bibtex_ren21lss.txt)]
-[[Paper](../files/ren21_lss_iros.pdf)]
-[[Talk](https://youtu.be/u0WSXr3yjhc)]
-<br>
-<br>
-
-Multi-Objective Path Planning
+Multi-Objective Planning
 ------
-Many robotic applications involve planning a path or trajectory while optimizing multiple conflicting objectives (such as path length, risk, distance-to-obstacles, arrival times, etc). A common and popular strategy is to take the weighted-sum of the objectives, which leads to a scalarized single-objective problem that can be solved by the existing algorithms. I believe that simply scalarizing the objectives (with some assumed weight) may often over-simplify the problem, and multi-objective planning techniques can unveil the inherent trade-off between objectives to give us new insights. I therefore develop a family of multi-objective planning algorithms with solution quality guarantees. These algorithms expedite the existing multi-objective search techniques for up to an order of magnitude [D1], handle dynamic environments [D2,D3], consider multi-agent systems [B1,B2], and gather information of different types [F1].
+Path planning often involves optimizing multiple conflicting objectives, such as fuel usage, path risk, arrivals times, etc. A common strategy is to take the weighted-sum of the objectives, which leads to a scalarized single-objective problem that can be solved by the existing algorithms. I believe that simply scalarizing the objectives (with some assumed weight) may often over-simplify the problem, and multi-objective planning techniques can identify the inherent trade-off between objectives and thus provide new insights about the task. A fundamental challenge in multi-objective planning is the large number of incomparable solutions (i.e. Pareto-optimal solutions), and we address this challenge by incrementally building a data structure during the computational process to efficiently manage the Pareto-optimal solutions. Consequently, our method expedites the existing multi-objective search techniques for up to an order of magnitude [D1]. We have also developed multi-objective planners to handle dynamic environments [D2,D3] that are common in robotics applications, and to address multi-agent multi-objective planning problems [C1,C2].
 
 * [D1] <img src="../images/fig_emoa.png" alt="" width="200" height="200" align="left" hspace="20" style=" border: #FFFFFF 2px none;">
 Enhanced Multi-Objective A\* Using Balanced Binary Search Trees\
@@ -115,7 +111,7 @@ Multi-Objective Safe-Interval Path Planning With Dynamic Obstacles\
 
 Optimality Bounds in Motion Planning
 ------
-Optimal motion planning in continuous space and time is of fundamental importance in Robotics and is challenging. In general, the true optimum of these problems is hard to obtain. Most of the existing algorithms (e.g. A*, RRT*) compute a feasible solution, whose cost is an upper bound of the true optimum. A fundamental question with regard to all these feasible solutions is: how far does a feasible solution deviate from the true optimum? In other words, how can we estimate the sub-optimality bound of a feasible solution? Since the true optimum is hard to obtain, I aim to obtain tight lower bound of the optimum, which can be used as proxies of the true optimum and thus help estimate the sub-optimality of a feasible solution. To begin with, I consider a trajectory planning problem among dynamic obstacles along known trajectories in 2D [E1].
+One frequent question I received from manufacturers when I was in BITO was that “Can you improve the transportation efficiency of the mobile robots by 10%?”, which is a fair question as the solution quality directly affects the logistic costs and hence the profits. It turns out that this question is hard to answer since there is no method to obtain the true optimum for many motion planning problems in real-world with continuous space and time. To address the challenge, we started by developing an approach that can compute tight lower bounds (of the true optimum) for a motion planning problem in continuous space and time among dynamic obstacles [E1]. The lower bounding method here differs from the vast majority of existing methods (such as A*, RRT, etc) that compute a feasible solution, whose cost is an upper bound of the true optimum. The key insight behind the approach is to systematically generate relaxed problems whose solution costs are lower bounds that asymptotically converge to the true optimum. The computed tight lower bounds can help estimate how far a feasible solution deviates from the true optimum and thus provide “performance certificates” of the feasible solution executed by the robot.
 
 * [E1] <img src="../images/fig_lbmp.gif" alt="" width="200" height="200" align="left" hspace="20" style=" border: #FFFFFF 2px none;">
 A Lower Bounding Framework for Motion Planning amid Dynamic Obstacles in 2D\
@@ -132,7 +128,8 @@ A Lower Bounding Framework for Motion Planning amid Dynamic Obstacles in 2D\
 Ergodic Coverage
 ------
 
-Ergodic search algorithms plan trajectories such that the time spent in a region is proportional to the amount of information in that region, and is able to naturally balance exploitation (myopically searching high-information areas) and exploration (visiting all locations in the search space for new information). I believe ergodic search can provide a framework for exploiting available information as well as exploring for new information for applications such as information gathering, search and rescue, etc. Existing ergodic search algorithms, as well as other information-based approaches, typically consider search using only a single information map. However, in many scenarios, the use of multiple information maps that encode different types of relevant information is common. Ergodic search methods currently do not possess the ability for simultaneous nor do they have a way to balance which information gets priority. I therefore formulate a Multi-Objective Ergodic Search (MOES) problem, and solve it by finding Pareto-optimal solutions, for the purpose of providing human decision makers various solutions that trade off between conflicting criteria [F1]
+Hazardous materials leakage can lead to heavy economic losses or casualties in manufacturing and warehousing (e.g. the semiconductor industry as shown in Fig.1 (d)). The search and rescue mission in this scenario often involves conflicting objectives such as localizing the leakage sources while finding survivors. We formulate and solve a multi-objective trajectory optimization problem that aims to find ergodic trajectories with respect to multiple information maps [F1]. Here, each information map is a probability distribution that encodes one type of information (such as possible locations of leakage or survivors), and a trajectory is ergodic w.r.t. an information map if the amount of time spent in each region is proportional to the amount of information in that region. We develop a framework that can leverage the existing single-objective ergodic search methods while providing theoretic guarantees on the Pareto-optimality of the computed solution.
+
 
 * [F1] <img src="../images/fig_moes_overview.png" alt="" width="200" height="200" align="left" hspace="20" style=" border: #FFFFFF 2px none;">
 A Local Optimization Framework for Multi-Objective Ergodic Search\
@@ -146,6 +143,4 @@ A Local Optimization Framework for Multi-Objective Ergodic Search\
 <br>
 <br>
 <br>
-
-
 
