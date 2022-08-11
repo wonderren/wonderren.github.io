@@ -144,3 +144,27 @@ A Local Optimization Framework for Multi-Objective Ergodic Search\
 <br>
 <br>
 
+
+Other Early Research
+------
+During my master study, I worked on path and motion planning for wheeled and snake robots. I leverage differential geometry and search-based path planning to plan path and motion for the robot with non-Euclidean shape space [Z1] and in environments with the underlying low-dimensional manifold structure [Z2].
+
+* [Z1] <img src="../images/fig_torus.png" alt="" width="250" height="200" align="left" hspace="20" style=" border: #000000 2px none;">
+Geometric motion planning for systems with toroidal and cylindrical shape spaces\
+  Chaohui Gong, **Zhongqiang Ren**, Julian Whitman, Jaskaran Grover, Baxi Chong, and Howie Choset.\
+  Dynamic Systems and Control Conference, American Society of Mechanical Engineers, 2018.\
+[[Bibtex](https://wonderren.github.io/files/bibtex_gong18torus.txt)]
+[[Paper](https://asmedigitalcollection.asme.org/DSCC/proceedings-abstract/DSCC2018/51913/V003T32A013/270996)]
+[[PDF](https://d1wqtxts1xzle7.cloudfront.net/57737478/DSCC2018-9144.pdf?1541912930=&response-content-disposition=inline%3B+filename%3DGeometric_Motion_Planning_For_Systems_Wi.pdf&Expires=1616924915&Signature=KuFlGSqfnphvOLhbK0Y33d4GZMikmQDXVFK1LDSjJ49hjrZof1sG8xlSdN-gVRQXcFqH9RSK4QV~7ly7Gp5OP9L5NiIqtJpL9XC80kV7gpl8-kGycqKsuy7T5viCGfuKTFeCUDu88YEaI60Ko9wKl8xgKXzHJDHc~L2SOCZfQic0iIw6Jr3Pp5e60X9C8Y2UvqlY8CnLrgOUc~TkN8w8t3kqUl~90KBEtKRvhiPJTk68D7dxPkf5ywee4a8wEDqmGezq34jkf1S4WyooKVlRxZ5LFbTGdVB75oVKgl1sqKi52LjsRanxeAHDqj~XsCGN4867qfEFV-uRnabb~iuN3g__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)]
+<br>
+<br>
+
+* [Z2] <img src="../images/fig_dslp.png" alt="" width="250" height="200" align="left" hspace="20" style=" border: #000000 2px none;">
+Deformed state lattice planning\
+  **Zhongqiang Ren**, Chaohui Gong, and Howie Choset.\
+  IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2017.\
+[[Bibtex](https://wonderren.github.io/files/bibtex_ren17dslp.txt)]
+[[Paper](https://ieeexplore.ieee.org/document/8206534)]
+[[PDF](https://www.researchgate.net/profile/Zhongqiang-Ren/publication/321821716_Deformed_state_lattice_planning/links/5e9fdca6a6fdcc20bb360c44/Deformed-state-lattice-planning.pdf)]
+<br>
+<br>
