@@ -147,7 +147,7 @@ A Local Optimization Framework for Multi-Objective Ergodic Search\
 
 Other Early Research
 ------
-During my master study, I worked on path and motion planning for wheeled and snake robots. I leverage differential geometry and search-based path planning to plan path and motion for the robot with non-Euclidean shape space [Z1] and in environments with the underlying low-dimensional manifold structure [Z2].
+During my master study, I worked on path and motion planning for wheeled and snake robots. I leverage differential geometry and search-based path planning to plan path and motion for the robot with non-Euclidean shape spaces [Z1] and in environments with the underlying low-dimensional manifold structure [Z2].
 
 * [Z1] <img src="../images/fig_torus.png" alt="" width="250" height="200" align="left" hspace="20" style=" border: #000000 2px none;">
 Geometric motion planning for systems with toroidal and cylindrical shape spaces\
