@@ -19,7 +19,7 @@ Conflict-Based Steiner Search for Multi-Agent Combinatorial Path Finding\
 [[Bibtex](https://wonderren.github.io/files/bibtex_ren22cbss.txt)]
 [[Paper](../files/ren22_cbss_rss.pdf)]
 [[Code](https://github.com/wonderren/public_pymcpf)]
-[[talk](https://youtu.be/V17vQSZP5Zs?t=2853)]
+[[Talk](https://youtu.be/V17vQSZP5Zs?t=2853)]
 <br>
 <br>
 <br>
@@ -119,7 +119,7 @@ A Lower Bounding Framework for Motion Planning amid Dynamic Obstacles in 2D\
   <i>Workshop on Algorithmic Foundations of Robotics (WAFR)</i>, 2022.\
 [[Bibtex](https://wonderren.github.io/files/bibtex_ren22lbmp.txt)]
 [[Paper](../files/ren22_lbmp_wafr.pdf)]
-[[talk](https://youtu.be/gM_w2HAYJww?t=28388)]
+[[Talk](https://youtu.be/gM_w2HAYJww?t=28388)]
 <br>
 <br>
 <br>
@@ -138,7 +138,7 @@ A Local Optimization Framework for Multi-Objective Ergodic Search\
 [[Bibtex](https://wonderren.github.io/files/bibtex_ren22moes.txt)]
 [[Paper](../files/ren22_moes_rss.pdf)]
 [[Code](https://github.com/wonderren/public_moes)]
-[[talk](https://youtu.be/A6rRCVtB2sM?t=1548)]
+[[Talk](https://youtu.be/A6rRCVtB2sM?t=1548)]
 <br>
 <br>
 <br>
