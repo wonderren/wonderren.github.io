@@ -37,13 +37,15 @@
     MONTH     = {June}, 
 } 
 
-@INPROCEEDINGS{ren22emoa, 
-  author={Ren, Zhongqiang and Rathinam, Sivakumar and Likhachev, Maxim and Choset, Howie},
-  title={Enhanced Multi-Objective A* Using Balanced Binary Search Trees},
-    BOOKTITLE = {Proceedings of the International Symposium on Combinatorial Search}, 
-    YEAR      = {2022}, 
-    MONTH     = {July}, 
-} 
+@inproceedings{ren22emoa,
+  title={Enhanced multi-objective A* using balanced binary search trees},
+  author={Ren, Zhongqiang and Zhan, Richard and Rathinam, Sivakumar and Likhachev, Maxim and Choset, Howie},
+  booktitle={Proceedings of the International Symposium on Combinatorial Search},
+  volume={15},
+  number={1},
+  pages={162--170},
+  year={2022}
+}
 
 @article{virmani22lm,
   title={Subdimensional Expansion Using Attention-Based Learning For Multi-Agent Path Finding},
@@ -93,27 +95,30 @@
 }
 
 @inproceedings{ren21mocbs,
-    title={Multi-objective Conflict-based Search for Multi-agent Path Finding},
-    author={Ren, Zhongqiang and Rathinam, Sivakumar and Choset, Howie},
-    booktitle={2021 IEEE International Conference on Robotics and Automation (ICRA)},
-    year={2021},
-    organization={IEEE}
+  title={Multi-objective conflict-based search for multi-agent path finding},
+  author={Ren, Zhongqiang and Rathinam, Sivakumar and Choset, Howie},
+  booktitle={2021 IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={8786--8791},
+  year={2021},
+  organization={IEEE}
 }
 
 @inproceedings{ren21ms,
-    title={MS*: A New Exact Algorithm for Multi-agent Simultaneous Multi-goal Sequencing and Path Finding},
-    author={Ren, Zhongqiang and Rathinam, Sivakumar and Choset, Howie},
-    booktitle={2021 IEEE International Conference on Robotics and Automation (ICRA)},
-    year={2021},
-    organization={IEEE}
+  title={Ms*: A new exact algorithm for multi-agent simultaneous multi-goal sequencing and path finding},
+  author={Ren, Zhongqiang and Rathinam, Sivakumar and Choset, Howie},
+  booktitle={2021 IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={11560--11565},
+  year={2021},
+  organization={IEEE}
 }
 
 @inproceedings{ren21lss,
-    title={Loosely Synchronized Search for Multi-agent Path Finding with Asynchronous Actions},
-    author={Ren, Zhongqiang and Rathinam, Sivakumar and Choset, Howie},
-    booktitle={2021 IEEE/RSJ International Conference on Intelligent Robots and Systems}
-    year={2021},
-    organization={IEEE}
+  title={Loosely synchronized search for multi-agent path finding with asynchronous actions},
+  author={Ren, Zhongqiang and Rathinam, Sivakumar and Choset, Howie},
+  booktitle={2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  pages={9714--9719},
+  year={2021},
+  organization={IEEE}
 }
 
 @inproceedings{gong18torus,

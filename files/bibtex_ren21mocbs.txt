@@ -1,7 +1,8 @@
 @inproceedings{ren21mocbs,
-    title={Multi-objective Conflict-based Search for Multi-agent Path Finding},
-    author={Ren, Zhongqiang and Rathinam, Sivakumar and Choset, Howie},
-    booktitle={2021 IEEE International Conference on Robotics and Automation (ICRA)},
-    year={2021},
-    organization={IEEE}
+  title={Multi-objective conflict-based search for multi-agent path finding},
+  author={Ren, Zhongqiang and Rathinam, Sivakumar and Choset, Howie},
+  booktitle={2021 IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={8786--8791},
+  year={2021},
+  organization={IEEE}
 }

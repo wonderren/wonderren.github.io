@@ -1,7 +1,8 @@
 @inproceedings{ren21ms,
-    title={MS*: A New Exact Algorithm for Multi-agent Simultaneous Multi-goal Sequencing and Path Finding},
-    author={Ren, Zhongqiang and Rathinam, Sivakumar and Choset, Howie},
-    booktitle={2021 IEEE International Conference on Robotics and Automation (ICRA)},
-    year={2021},
-    organization={IEEE}
+  title={Ms*: A new exact algorithm for multi-agent simultaneous multi-goal sequencing and path finding},
+  author={Ren, Zhongqiang and Rathinam, Sivakumar and Choset, Howie},
+  booktitle={2021 IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={11560--11565},
+  year={2021},
+  organization={IEEE}
 }
