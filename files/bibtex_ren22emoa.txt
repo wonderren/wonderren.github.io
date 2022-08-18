@@ -1,5 +1,5 @@
 @inproceedings{ren22emoa,
-  title={Enhanced multi-objective A* using balanced binary search trees},
+  title={Enhanced multi-objective {A}* using balanced binary search trees},
   author={Ren, Zhongqiang and Zhan, Richard and Rathinam, Sivakumar and Likhachev, Maxim and Choset, Howie},
   booktitle={Proceedings of the International Symposium on Combinatorial Search},
   volume={15},
