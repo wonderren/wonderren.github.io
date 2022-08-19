@@ -22,8 +22,7 @@ redirect_from:
 
 About
 ======
-My name is Zhongqiang (Richard) Ren.
-I am a Ph.D. candidate with [Biorobotics Lab](http://biorobotics.ri.cmu.edu/index.php) at [Carnegie Mellon University](https://www.cmu.edu/) (CMU, the U.S.), advised by [Professor Howie Choset](https://www.ri.cmu.edu/ri-faculty/howie-choset/), [Professor Maxim Likhachev](http://www.cs.cmu.edu/~maxim/) and [Professor Sivakumar Rathinam](https://engineering.tamu.edu/mechanical/profiles/rathinam-sivakumar.html).
+I am a postdoc with [Biorobotics Lab](http://biorobotics.ri.cmu.edu/index.php) at [Carnegie Mellon University](https://www.cmu.edu/) (CMU, the U.S.), where I also received my Ph.D. degree, advised by Professor [Howie Choset](https://www.ri.cmu.edu/ri-faculty/howie-choset/) and Professor [Maxim Likhachev](http://www.cs.cmu.edu/~maxim/).
 
 I received my Master degree from Carnegie Mellon University and B.Eng. from both [Tongji University](https://www.tongji.edu.cn/) (China) and [FH Aachen](https://www.fh-aachen.de/en/) (Germany).
 Prior to my Ph.D. study, I was a co-founder and the CTO of [BITO Robotics](https://bitorobotics.com/en/).
