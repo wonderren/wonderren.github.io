@@ -22,8 +22,8 @@ redirect_from:
 
 About
 ======
-I am a postdoc with [Biorobotics Lab](http://biorobotics.ri.cmu.edu/index.php) at [Carnegie Mellon University](https://www.cmu.edu/) (CMU, the U.S.), where I also received my Ph.D. degree, advised by Professor [Howie Choset](https://www.ri.cmu.edu/ri-faculty/howie-choset/) and Professor [Maxim Likhachev](http://www.cs.cmu.edu/~maxim/).
-
+I am a postdoc with [Biorobotics Lab](http://biorobotics.ri.cmu.edu/index.php) at [Carnegie Mellon University](https://www.cmu.edu/) (CMU, the U.S.).
+I received my Ph.D. degree from the same lab, advised by Professor [Howie Choset](https://www.ri.cmu.edu/ri-faculty/howie-choset/) and Professor [Maxim Likhachev](http://www.cs.cmu.edu/~maxim/).
 I received my Master degree from Carnegie Mellon University and B.Eng. from both [Tongji University](https://www.tongji.edu.cn/) (China) and [FH Aachen](https://www.fh-aachen.de/en/) (Germany).
 Prior to my Ph.D. study, I was a co-founder and the CTO of [BITO Robotics](https://bitorobotics.com/en/).
 
