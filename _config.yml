@@ -8,9 +8,9 @@
 # Site Settings
 locale                   : "en-US"
 # title                    : "Research Page of Zhongqiang (Richard) Ren"
-title                    : "Zhongqiang (Richard) Ren"
+title                    : "Zhongqiang Richard Ren"
 title_separator          : "-"
-name                     : &name "Zhongqiang (Richard) Ren"
+name                     : &name "Zhongqiang Richard Ren"
 description              : &description "personal description"
 url                      : https://wonderren.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
