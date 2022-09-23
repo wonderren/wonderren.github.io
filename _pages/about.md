@@ -32,6 +32,7 @@ My research focuses on solving fundamental path and motion planning problems for
 News
 ======
 
+* \[2022.09\] [CFP] Please consider submitting your papers to [AAAI-23 workshop on Multi-Agent Path Finding](http://idm-lab.org/wiki/AAAI23-MAPF/index.php/Main/HomePage). The [submission](https://cmt3.research.microsoft.com/WoMAPF2023/Submission/Index) deadline is Oct 21st, 2022.
 * \[2022.07\] I remotely present the work Enhanced Multi-Objective A* [(talk)](https://youtu.be/ej_a7IG4s4w) at SOCS-2022.
 * \[2022.06\] I present Multi-Agent Combinatorial Path Finding [(talk)](https://youtu.be/V17vQSZP5Zs?t=2853) at RSS-2022.
 * \[2022.06\] I present Multi-Objective Ergodic Search [(talk)](https://youtu.be/A6rRCVtB2sM?t=1548) at RSS-2022.
