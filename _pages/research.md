@@ -7,6 +7,18 @@ author_profile: true
 
 My research focuses on solving fundamental path and motion planning problems for single and multiple robots, by leveraging and advancing the frontier of multi-agent planning, combinatorial search and optimal control. These problems are often NP-hard, and my research exploits the underlying structure of these problems to develop algorithms that balance between runtime efficiency and solution quality guarantees, while being deployable to physical robots. These problems often arise in warehouse logistics, manufacturing and search-and-rescue. Most of my existing research is motivated by my experience prior to my PhD, where I co-founded a startup called [BITO Robotics](https://bitorobotics.com/en/) and was deeply involved in developing and deploying fleets of mobile robots in factories to transport materials.
 
+<div class="row">
+  <div class="column">
+    <img src="../images/fig_bitoForklift.gif" alt="fig1" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="../images/fig_rbtMCPF.gif" alt="fig2" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="../images/fig_ergodic2robots.gif" alt="fig3" style="width:100%">
+  </div>
+</div>
+
 
 Multi-Agent Path Planning
 ------
