@@ -9,13 +9,13 @@ My research focuses on solving fundamental path and motion planning problems for
 
 <div class="row">
   <div class="column">
-    <img src="../images/fig_bitoForklift.gif" alt="fig1" style="width:100%">
+    <img src="../images/fig_bitoForklift.gif" alt="fig1" style="width:33%">
   </div>
   <div class="column">
-    <img src="../images/fig_rbtMCPF.gif" alt="fig2" style="width:100%">
+    <img src="../images/fig_rbtMCPF.gif" alt="fig2" style="width:33%">
   </div>
   <div class="column">
-    <img src="../images/fig_ergodic2robots.gif" alt="fig3" style="width:100%">
+    <img src="../images/fig_ergodic2robots.gif" alt="fig3" style="width:33%">
   </div>
 </div>
 
