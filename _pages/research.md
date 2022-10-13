@@ -13,8 +13,9 @@ My research focuses on solving fundamental path and motion planning problems for
   <img src="../images/fig_ergodic2robots.gif" alt="fig3" style="width:33%">
 </div>
 
-<img src="../images/fig_someRobots.png" alt="fig4" style="width:100%">
-
+<div class="row">
+  <img src="../images/fig_someRobots.png" alt="fig4" style="width:100%">
+</div>
 
 Multi-Agent Path Planning
 ------
