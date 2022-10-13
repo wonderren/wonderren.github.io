@@ -18,7 +18,7 @@ Fig. 1: Autonomous mobile robot examples in manufacturing. (a) a heavy-loaded (e
   <img src="../images/fig_rbtMCPF.gif" alt="fig2" style="width:33%">
   <img src="../images/fig_ergodic2robots.gif" alt="fig3" style="width:33%">
 </div>
-Movie. 1: Some robot demos about autonomous forklift, multi-agent combinatorial path finding, and ergodic search.
+Movie. 1: Some robot demos about autonomous forklift (from BITO), multi-agent combinatorial path finding (using Robotarium), and ergodic search (using ROSBot).
 
 Multi-Agent Path Planning
 ------
