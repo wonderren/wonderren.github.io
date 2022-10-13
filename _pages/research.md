@@ -8,8 +8,8 @@ author_profile: true
 My research focuses on solving fundamental path and motion planning problems for single and multiple robots, by leveraging and advancing the frontier of multi-agent planning, combinatorial search and optimal control. These problems are often NP-hard, and my research exploits the underlying structure of these problems to develop algorithms that balance between runtime efficiency and solution quality guarantees, while being deployable to physical robots. These problems often arise in warehouse logistics, manufacturing and search-and-rescue. Most of my existing research is motivated by my experience prior to my PhD, where I co-founded a startup called [BITO Robotics](https://bitorobotics.com/en/) and was deeply involved in developing and deploying fleets of mobile robots in factories to transport materials.
 
 
-<div class="row">
-  <img src="../images/fig_someRobots.png" alt="fig4" align="center" style="width:75%">
+<div class="row" align="center">
+  <img src="../images/fig_someRobots.png" alt="fig4" style="width:75%">
 </div>
 Fig. 1: Autonomous mobile robot examples in manufacturing. (a) a heavy-loaded (e.g. one ton) mobile base for raw paper transportation in the corrugated paper box industry; (b) an autonomous forklift; (c) a light payload (e.g. 500 kg) mobile base; (d) a road network for mobile robots in a factory. All figures are from my experience at BITO Robotics.
 
