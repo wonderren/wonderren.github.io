@@ -11,12 +11,14 @@ My research focuses on solving fundamental path and motion planning problems for
 <div class="row">
   <img src="../images/fig_someRobots.png" alt="fig4" align="center" style="width:75%">
 </div>
+Fig. 1: Autonomous mobile robot examples in manufacturing. (a) a heavy-loaded (e.g. one ton) mobile base for raw paper transportation in the corrugated paper box industry; (b) an autonomous forklift; (c) a light payload (e.g. 500 kg) mobile base; (d) a road network for mobile robots in a factory. All figures are from my experience at BITO Robotics.
 
 <div class="row">
   <img src="../images/fig_bitoForklift.gif" alt="fig1" style="width:33%">
   <img src="../images/fig_rbtMCPF.gif" alt="fig2" style="width:33%">
   <img src="../images/fig_ergodic2robots.gif" alt="fig3" style="width:33%">
 </div>
+Movie. 1: Some robot demos about autonomous forklift, multi-agent combinatorial path finding, and ergodic search.
 
 Multi-Agent Path Planning
 ------
