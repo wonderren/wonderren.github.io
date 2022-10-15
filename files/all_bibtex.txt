@@ -47,6 +47,17 @@
   year={2022}
 }
 
+@ARTICLE{ren22mopbd,
+  author={Ren, Zhongqiang and Rathinam, Sivakumar and Likhachev, Maxim and Choset, Howie},
+  journal={IEEE Robotics and Automation Letters}, 
+  title={Multi-Objective Path-Based D* Lite}, 
+  year={2022},
+  volume={7},
+  number={2},
+  pages={3318-3325},
+  doi={10.1109/LRA.2022.3146918}
+}
+
 @article{virmani22lm,
   title={Subdimensional Expansion Using Attention-Based Learning For Multi-Agent Path Finding},
   author={Virmani, Lakshay and Ren, Zhongqiang and Rathinam, Sivakumar and Choset, Howie},
@@ -59,17 +70,6 @@
   author={Ren, Zhongqiang and Rathinam, Sivakumar and Choset, Howie},
   journal={arXiv preprint arXiv:2108.00745},
   year={2021}
-}
-
-@article{ren22mopbd,
-  title={Multi-Objective Path-Based D* Lite},
-  author={Ren, Zhongqiang and Rathinam, Sivakumar and Likhachev, Maxim and Choset, Howie},
-  journal={IEEE Robotics and Automation Letters},
-  volume={7},
-  number={2},
-  pages={3318--3325},
-  year={2022},
-  publisher={IEEE}
 }
 
 @ARTICLE{ren21momstar,
