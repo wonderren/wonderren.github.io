@@ -11,7 +11,7 @@ My research focuses on solving fundamental path and motion planning problems for
 <div class="row" align="center">
   <img src="../images/fig_someRobots.png" alt="fig4" style="width:75%">
 </div>
-Fig. 1: Autonomous mobile robot examples in manufacturing. (a) a heavy-loaded (e.g. one ton) mobile base for raw paper transportation in the corrugated paper box industry; (b) an autonomous forklift; (c) a light payload (e.g. 500 kg) mobile base; (d) a road network for mobile robots in a factory. All figures are from my experience at BITO Robotics.
+Fig. 1: Autonomous mobile robot examples in manufacturing. (a) a heavy-loaded (e.g. one ton) mobile base for raw paper transportation in the corrugated paper box industry (credit: BITO and its collaborator DeepSea AI); (b) an autonomous forklift; (c) a light payload (e.g. 500 kg) mobile base; (d) a road network for mobile robots in a factory. All figures are from my experience at BITO Robotics.
 
 <div class="row">
   <img src="../images/fig_bitoForklift.gif" alt="fig1" style="width:33%">
