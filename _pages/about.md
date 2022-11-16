@@ -22,6 +22,8 @@ redirect_from:
 
 About
 ======
+**I am currently on the job market to look for a tenure-track assistant professor position starting from Fall 2023 around the world.**
+
 I am a postdoc with [Biorobotics Lab](http://biorobotics.ri.cmu.edu/index.php) at [Carnegie Mellon University](https://www.cmu.edu/) (CMU, the U.S.).
 I received my Ph.D. degree from the same lab, advised by Professor [Howie Choset](https://www.ri.cmu.edu/ri-faculty/howie-choset/) and Professor [Maxim Likhachev](http://www.cs.cmu.edu/~maxim/).
 I received my Master degree from Carnegie Mellon University and B.Eng. from both [Tongji University](https://www.tongji.edu.cn/) (China) and [FH Aachen](https://www.fh-aachen.de/en/) (Germany).
@@ -33,6 +35,7 @@ News
 ======
 
 * \[2022.09\] [CFP] Please consider submitting your papers to [AAAI-23 workshop on Multi-Agent Path Finding](http://idm-lab.org/wiki/AAAI23-MAPF/index.php/Main/HomePage). The [submission](https://cmt3.research.microsoft.com/WoMAPF2023/Submission/Index) deadline is Oct 21st, 2022.
+* \[2022.08\] I defend my [thesis](https://www.proquest.com/openview/a979d8cac4e37eecbc705c0c41aeb7b2) and obtain the PhD degree.
 * \[2022.07\] I remotely present the work Enhanced Multi-Objective A* [(talk)](https://youtu.be/ej_a7IG4s4w) at SOCS-2022.
 * \[2022.06\] I present Multi-Agent Combinatorial Path Finding [(talk)](https://youtu.be/V17vQSZP5Zs?t=2853) at RSS-2022.
 * \[2022.06\] I present Multi-Objective Ergodic Search [(talk)](https://youtu.be/A6rRCVtB2sM?t=1548) at RSS-2022.
