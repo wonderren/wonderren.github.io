@@ -34,6 +34,7 @@ I am broadly interested in Robotics and Artificial Intelligence. My research foc
 News
 ======
 
+* \[2022.10\] I remotely present MO-SIPP [(paper)](https://wonderren.github.io/files/ren22_mosipp_RAL_IROS22.pdf) at IROS-2022.
 * \[2022.09\] [CFP] Please consider submitting your papers to [AAAI-23 workshop on Multi-Agent Path Finding](http://idm-lab.org/wiki/AAAI23-MAPF/index.php/Main/HomePage). The [submission](https://cmt3.research.microsoft.com/WoMAPF2023/Submission/Index) deadline is Oct 21st, 2022.
 * \[2022.08\] I defend my [thesis](https://www.proquest.com/openview/a979d8cac4e37eecbc705c0c41aeb7b2) and obtain the PhD degree.
 * \[2022.07\] I remotely present the work Enhanced Multi-Objective A* [(talk)](https://youtu.be/ej_a7IG4s4w) at SOCS-2022.
@@ -49,11 +50,11 @@ News
   <summary>Show more</summary>
   <ul>
     <li>
-      [2021.09] I give virtual talks about <a href="https://www.youtube.com/watch?v=pfeBNvOqzvE">Multi-Objective M*</a> and <a href="https://www.youtube.com/watch?v=u0WSXr3yjhc&t=2s">Loosely-Synchronized Search</a> at IROS-2021.
+      [2021.09] I remotely present <a href="https://www.youtube.com/watch?v=pfeBNvOqzvE">Multi-Objective M*</a> and <a href="https://www.youtube.com/watch?v=u0WSXr3yjhc&t=2s">Loosely-Synchronized Search</a> at IROS-2021.
     </li>
 
     <li>
-      [2021.05] I give virtual talks about <a href="https://www.youtube.com/watch?v=KI-BVhsjg0I&t=9s">Multi-Objective Conflict-Based Search</a> and <a href="https://www.youtube.com/watch?v=cjwO4yycfpo&t=20s">MS*</a> at ICRA-2021.
+      [2021.05] I remotely present about <a href="https://www.youtube.com/watch?v=KI-BVhsjg0I&t=9s">Multi-Objective Conflict-Based Search</a> and <a href="https://www.youtube.com/watch?v=cjwO4yycfpo&t=20s">MS*</a> at ICRA-2021.
     </li>
 
     <li>
