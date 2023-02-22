@@ -1,7 +1,20 @@
-@INPROCEEDINGS{ren22lbmp, 
-  title={A Lower Bounding Framework for Motion Planning amid Dynamic Obstacles in 2D},
-  author={Ren, Zhongqiang and Rathinam, Sivakumar and Choset, Howie},
-    BOOKTITLE = {International Workshop on the Algorithmic Foundations of Robotics}, 
-    YEAR      = {2022}, 
-    MONTH     = {June}, 
-} 
+
+
+@InProceedings{10.1007/978-3-031-21090-7_32,
+author="Ren, Zhongqiang
+and Rathinam, Sivakumar
+and Choset, Howie",
+editor="LaValle, Steven M.
+and O'Kane, Jason M.
+and Otte, Michael
+and Sadigh, Dorsa
+and Tokekar, Pratap",
+title="A Lower Bounding Framework for Motion Planning Amid Dynamic Obstacles in 2D",
+booktitle="Algorithmic Foundations of Robotics XV",
+year="2023",
+publisher="Springer International Publishing",
+address="Cham",
+pages="540--556",
+abstract="This work considers a Motion Planning Problem with Dynamic Obstacles (MPDO) in 2D that requires finding a minimum-arrival-time collision-free trajectory for a point robot between its start and goal locations amid dynamic obstacles moving along known trajectories. Existing methods, such as continuous Dijkstra paradigm, can find an optimal solution by restricting the shape of the obstacles or the motion of the robot, while this work makes no such assumptions. Other methods, such as search-based planners and sampling-based approaches can compute a feasible solution to this problem but do not provide approximation bounds. Since finding the optimum is challenging for MPDO, this paper develops a framework that can provide tight lower bounds to the optimum. These bounds act as proxies for the optimum which can then be used to bound the deviation of a feasible solution from the optimum. To accomplish this, we develop a framework that consists of (i) a bi-level discretization approach that converts the MPDO to a relaxed path planning problem, and (ii) an algorithm that can solve the relaxed problem to obtain lower bounds. We also present numerical results to corroborate the performance of the proposed framework. These results show that the bounds obtained by our approach for some instances are up to twice tighter than a baseline approach showcasing potential advantages of the proposed approach.",
+isbn="978-3-031-21090-7"
+}
