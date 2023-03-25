@@ -34,42 +34,33 @@ I am broadly interested in Robotics and Artificial Intelligence. My research foc
 News
 ======
 
+* \[2023.03\] One [paper](https://wonderren.github.io/files/ren23_BBMOCBS_ICAPS23.pdf) accepted to ICAPS-2023.
 * \[2023.02\] One [paper](https://wonderren.github.io/files/ren23_MATCPF_ICRA23.pdf) accepted to ICRA-2023.
 * \[2022.10\] I remotely present MO-SIPP [(paper)](https://wonderren.github.io/files/ren22_mosipp_RAL_IROS22.pdf) at IROS-2022.
 * \[2022.09\] [CFP] Please consider submitting your papers to [AAAI-23 workshop on Multi-Agent Path Finding](http://idm-lab.org/wiki/AAAI23-MAPF/index.php/Main/HomePage). The [submission](https://cmt3.research.microsoft.com/WoMAPF2023/Submission/Index) deadline is Oct 21st, 2022.
 * \[2022.08\] I defend my [thesis](https://www.proquest.com/openview/a979d8cac4e37eecbc705c0c41aeb7b2) and obtain the PhD degree.
-* \[2022.07\] I remotely present the work Enhanced Multi-Objective A* [(talk)](https://youtu.be/ej_a7IG4s4w) at SOCS-2022.
-* \[2022.06\] I present Multi-Agent Combinatorial Path Finding [(talk)](https://youtu.be/V17vQSZP5Zs?t=2853) at RSS-2022.
-* \[2022.06\] I present Multi-Objective Ergodic Search [(talk)](https://youtu.be/A6rRCVtB2sM?t=1548) at RSS-2022.
-* \[2022.06\] I present Lower Bound Motion Planning [(talk)](https://youtu.be/gM_w2HAYJww?t=28388) at WAFR-2022.
 * \[2022.06\] Our paper [Enhanced Multi-Objective A*](https://arxiv.org/pdf/2202.08992.pdf) is accepted to [SOCS-2022](https://sites.google.com/unibs.it/socs2022).
-* \[2022.05\] I present Multi-Objective Path-Based D* Lite [(video)](https://youtu.be/GVYLqTZpPLE)[(poster)](../files/ren22_MOPBD_ICRA_RAL_poster.pdf) at [ICRA-2022](https://www.icra2022.org/) in Philadelphia.
 * \[2022.04\] Our papers [Multi-Agent Combinatorial Path Finding](http://www.roboticsproceedings.org/rss18/p058.pdf) and [Multi-Objective Ergodic Search](http://www.roboticsproceedings.org/rss18/p052.pdf) are accepted to [RSS-2022](https://roboticsconference.org/)
 * \[2022.04\] Our paper [A Lower Bounding Framework for Motion Planning amid Dynamic Obstacles in 2D](https://arxiv.org/pdf/2202.07409.pdf) is accepted to [WAFR-2022](https://wafr2022.github.io/).
-* \[2022.01\] Our paper [Multi-Objective Path-Based D* Lite](https://ieeexplore.ieee.org/abstract/document/9697421) is accepted to RA-L (and ICRA-2022).
+
 <details>
   <summary>Show more</summary>
   <ul>
     <li>
       [2021.09] I remotely present <a href="https://www.youtube.com/watch?v=pfeBNvOqzvE">Multi-Objective M*</a> and <a href="https://www.youtube.com/watch?v=u0WSXr3yjhc&t=2s">Loosely-Synchronized Search</a> at IROS-2021.
     </li>
-
     <li>
       [2021.05] I remotely present about <a href="https://www.youtube.com/watch?v=KI-BVhsjg0I&t=9s">Multi-Objective Conflict-Based Search</a> and <a href="https://www.youtube.com/watch?v=cjwO4yycfpo&t=20s">MS*</a> at ICRA-2021.
     </li>
-
     <li>
       [2020.10] As the CTO of BITO Robotics, I give a talk at a <a href="https://www.yun-live.com/article_pc/3459">salon</a> about industrial intelligence in Xiamen, China.
     </li>
-
     <li>
       [2020.07] As the CTO of BITO Robotics, I give a virtual <a href="https://www.aiimooc.com/mall/preshow-htm-itemid-605.html">talk</a> about mobile robots in industrial applications.
     </li>
-
     <li>
       [2020.07] As the CTO of BITO Robotics, I give a <a href="https://www.jiqizhixin.com/articles/2020-07-03-24">talk</a> at World AI Conference (WAIC).
     </li>
-
     <li>
       [2019.12] As the CTO of BITO Robotics, I give a <a href="https://www.sohu.com/a/360892392_120166828">talk</a> about AGV and logistics at Gaogong Forum in Shenzhen, China.
     </li>
