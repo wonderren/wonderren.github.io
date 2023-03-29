@@ -57,7 +57,7 @@ Conference
 * [C10] Search Algorithms for Multi-Agent Teamwise Cooperative Path Finding\
   **Zhongqiang Ren**, Chaoran Zhang, Sivakumar Rathinam and Howie Choset.\
   <i>IEEE International Conference on Robotics and Automation (ICRA)</i>, 2023.\
-[[Bibtex](https://wonderren.github.io/files/bibtex_ren22matcpf.txt)]
+[[Bibtex](https://wonderren.github.io/files/bibtex_ren23matcpf.txt)]
 [[Paper](../files/ren23_MATCPF_ICRA23.pdf)]
 
 * [C9] Enhanced Multi-Objective A* Using Balanced Binary Search Trees\
