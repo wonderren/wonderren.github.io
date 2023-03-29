@@ -1,0 +1,8 @@
+@inproceedings{ren23matcpf,
+  title={Search Algorithms for Multi-Agent Teamwise Cooperative Path Finding},
+  author={Ren, Zhongqiang and Zhang, Chaoran and Rathinam, Sivakumar and Choset, Howie},
+  booktitle={2023 IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={},
+  year={2023},
+  organization={IEEE}
+}

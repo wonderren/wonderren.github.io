@@ -47,6 +47,19 @@ Journal
 Conference
 ------
 
+* [C11] Binary Branching Multi-Objective Conflict-Based Search for Multi-Agent Path Finding\
+  **Zhongqiang Ren**, Jiaoyang Li, Han Zhang, Sven Koenig, Sivakumar Rathinam and Howie Choset.\
+  <i>International Conference on Automated Planning and Scheduling (ICAPS)</i>, 2023.\
+[[Bibtex](https://wonderren.github.io/files/bibtex_ren23bbmocbs.txt)]
+[[Paper](../files/ren23_BBMOCBS_ICAPS23.pdf)]
+[[Code](https://github.com/wonderren/public_bbmocbs)]
+
+* [C10] Search Algorithms for Multi-Agent Teamwise Cooperative Path Finding\
+  **Zhongqiang Ren**, Chaoran Zhang, Sivakumar Rathinam and Howie Choset.\
+  <i>IEEE International Conference on Robotics and Automation (ICRA)</i>, 2023.\
+[[Bibtex](https://wonderren.github.io/files/bibtex_ren22matcpf.txt)]
+[[Paper](../files/ren23_MATCPF_ICRA23.pdf)]
+
 * [C9] Enhanced Multi-Objective A* Using Balanced Binary Search Trees\
   **Zhongqiang Ren**, Richard Zhan, Sivakumar Rathinam, Maxim Likhachev and Howie Choset.\
   <i>International Symposium on Combinatorial Search (SoCS)</i>, 2022.\

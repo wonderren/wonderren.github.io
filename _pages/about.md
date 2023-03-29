@@ -34,7 +34,7 @@ I am broadly interested in Robotics and Artificial Intelligence. My research foc
 News
 ======
 
-* \[2023.03\] One [paper](https://wonderren.github.io/files/ren23_BBMOCBS_ICAPS23.pdf) accepted to ICAPS-2023.
+* \[2023.02\] One [paper](https://wonderren.github.io/files/ren23_BBMOCBS_ICAPS23.pdf) accepted to ICAPS-2023.
 * \[2023.02\] One [paper](https://wonderren.github.io/files/ren23_MATCPF_ICRA23.pdf) accepted to ICRA-2023.
 * \[2022.10\] I remotely present MO-SIPP [(paper)](https://wonderren.github.io/files/ren22_mosipp_RAL_IROS22.pdf) at IROS-2022.
 * \[2022.09\] [CFP] Please consider submitting your papers to [AAAI-23 workshop on Multi-Agent Path Finding](http://idm-lab.org/wiki/AAAI23-MAPF/index.php/Main/HomePage). The [submission](https://cmt3.research.microsoft.com/WoMAPF2023/Submission/Index) deadline is Oct 21st, 2022.

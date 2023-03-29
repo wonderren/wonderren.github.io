@@ -1,0 +1,8 @@
+@inproceedings{ren23bbmocbs,
+  title={Binary Branching Multi-Objective Conflict-Based Search for Multi-Agent Path Finding},
+  author={Ren, Zhongqiang and Li, Jiaoyang and Zhang, Han and Koenig, Sven and Rathinam, Sivakumar and Choset, Howie},
+  booktitle={Proceedings of the International Conference on Automated Planning and Scheduling},
+  volume={},
+  pages={},
+  year={2023}
+}
