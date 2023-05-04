@@ -1,3 +1,34 @@
+@ARTICLE{ren23cbssTRO,
+  author={Ren, Zhongqiang and Rathinam, Sivakumar and Choset, Howie},
+  journal={IEEE Transactions on Robotics}, 
+  title={CBSS: A New Approach for Multiagent Combinatorial Path Finding}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-15},
+  doi={10.1109/TRO.2023.3266993}
+}
+
+@inproceedings{ren23matcpf,
+  title={Search Algorithms for Multi-Agent Teamwise Cooperative Path Finding},
+  author={Ren, Zhongqiang and Zhang, Chaoran and Rathinam, Sivakumar and Choset, Howie},
+  booktitle={2023 IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={},
+  year={2023},
+  organization={IEEE}
+}
+
+@ARTICLE{ren22mocbs_tase,
+  author={Ren, Zhongqiang and Rathinam, Sivakumar and Choset, Howie},
+  journal={IEEE Transactions on Automation Science and Engineering}, 
+  title={A Conflict-Based Search Framework for Multiobjective Multiagent Path Finding}, 
+  year={2023},
+  volume={20},
+  number={2},
+  pages={1262-1274},
+  doi={10.1109/TASE.2022.3183183}
+}
+
 @ARTICLE{ren22mosipp,
   author={Ren, Zhongqiang and Rathinam, Sivakumar and Likhachev, Maxim and Choset, Howie},
   journal={IEEE Robotics and Automation Letters}, 
@@ -95,17 +126,6 @@ isbn="978-3-031-21090-7"
   number={4},
   pages={7153-7160},
   doi={10.1109/LRA.2021.3096744}
-}
-
-@ARTICLE{ren22mocbs_tase,
-  author={Ren, Zhongqiang and Rathinam, Sivakumar and Choset, Howie},
-  journal={IEEE Transactions on Automation Science and Engineering}, 
-  title={A Conflict-Based Search Framework for Multiobjective Multiagent Path Finding}, 
-  year={2022},
-  volume={},
-  number={},
-  pages={1-13},
-  doi={10.1109/TASE.2022.3183183}
 }
 
 @inproceedings{ren21mocbs,

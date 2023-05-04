@@ -10,6 +10,14 @@ author_profile: true
 Journal
 ------
 
+* [J5] CBSS: A New Approach for Multiagent Combinatorial Path Finding\
+  **Zhongqiang Ren**, Sivakumar Rathinam and Howie Choset.\
+  <i>IEEE Transaction on Robotics (T-RO)</i>, 2023.\
+[[Bibtex](https://wonderren.github.io/files/bibtex_ren23cbssTRO.txt)]
+[[Paper](../files/ren23_CBSS_TRO.pdf)]
+[[Code](https://github.com/wonderren/public_pymcpf)]
+[[talk at RSS22](https://youtu.be/V17vQSZP5Zs?t=2853)]
+
 * [J4] Multi-Objective Safe-Interval Path Planning With Dynamic Obstacles\
   **Zhongqiang Ren**, Sivakumar Rathinam, Maxim Likhachev and Howie Choset.\
   <i>IEEE Robotics and Automation Letters (RA-L)</i>, 2022.\
