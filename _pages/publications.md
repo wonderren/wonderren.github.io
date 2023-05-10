@@ -55,15 +55,21 @@ Journal
 Conference
 ------
 
-* [C11] Binary Branching Multi-Objective Conflict-Based Search for Multi-Agent Path Finding\
+* [C12] Binary Branching Multi-Objective Conflict-Based Search for Multi-Agent Path Finding\
   **Zhongqiang Ren**, Jiaoyang Li, Han Zhang, Sven Koenig, Sivakumar Rathinam and Howie Choset.\
   <i>International Conference on Automated Planning and Scheduling (ICAPS)</i>, 2023.\
 [[Bibtex](https://wonderren.github.io/files/bibtex_ren23bbmocbs.txt)]
 [[Paper](../files/ren23_BBMOCBS_ICAPS23.pdf)]
 [[Code](https://github.com/wonderren/public_bbmocbs)]
 
-* [C10] Search Algorithms for Multi-Agent Teamwise Cooperative Path Finding\
+* [C11] Search Algorithms for Multi-Agent Teamwise Cooperative Path Finding\
   **Zhongqiang Ren**, Chaoran Zhang, Sivakumar Rathinam and Howie Choset.\
+  <i>The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2023 (CVPR)</i>, 2023.\
+[[Paper](../files/chen23_pypose_cvpr.pdf)]
+[[Code](https://pypose.org)]
+
+* [C10] PyPose: A Library for Robot Learning with Physics-based Optimization\
+  Chen Wang et al.\
   <i>IEEE International Conference on Robotics and Automation (ICRA)</i>, 2023.\
 [[Bibtex](https://wonderren.github.io/files/bibtex_ren23matcpf.txt)]
 [[Paper](../files/ren23_MATCPF_ICRA23.pdf)]

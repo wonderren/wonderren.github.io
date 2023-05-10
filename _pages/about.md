@@ -35,6 +35,7 @@ News
 ======
 
 * \[2023.04\] One [paper](https://wonderren.github.io/files/ren23_CBSS_TRO.pdf) accepted to IEEE Transaction on Robotics.
+* \[2023.03\] One [paper](https://wonderren.github.io/files/chen23_pypose_cvpr.pdf) accepted to CVPR-2023.
 * \[2023.02\] One [paper](https://wonderren.github.io/files/ren23_BBMOCBS_ICAPS23.pdf) accepted to ICAPS-2023.
 * \[2023.02\] One [paper](https://wonderren.github.io/files/ren23_MATCPF_ICRA23.pdf) accepted to ICRA-2023.
 * \[2022.10\] I remotely present MO-SIPP [(paper)](https://wonderren.github.io/files/ren22_mosipp_RAL_IROS22.pdf) at IROS-2022.
