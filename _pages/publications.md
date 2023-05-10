@@ -64,15 +64,16 @@ Conference
 
 * [C11] Search Algorithms for Multi-Agent Teamwise Cooperative Path Finding\
   **Zhongqiang Ren**, Chaoran Zhang, Sivakumar Rathinam and Howie Choset.\
-  <i>The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2023 (CVPR)</i>, 2023.\
-[[Paper](../files/chen23_pypose_cvpr.pdf)]
-[[Code](https://pypose.org)]
-
-* [C10] PyPose: A Library for Robot Learning with Physics-based Optimization\
-  Chen Wang et al.\
   <i>IEEE International Conference on Robotics and Automation (ICRA)</i>, 2023.\
 [[Bibtex](https://wonderren.github.io/files/bibtex_ren23matcpf.txt)]
 [[Paper](../files/ren23_MATCPF_ICRA23.pdf)]
+
+* [C10] PyPose: A Library for Robot Learning with Physics-based Optimization\
+  Chen Wang, et al.\
+  <i>The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2023 (CVPR)</i>, 2023.\
+[[Bibtex](https://wonderren.github.io/files/bibtex_wang23pypose.txt)]
+[[Paper](../files/wang23_pypose_cvpr.pdf)]
+[[Code](https://pypose.org)]
 
 * [C9] Enhanced Multi-Objective A* Using Balanced Binary Search Trees\
   **Zhongqiang Ren**, Richard Zhan, Sivakumar Rathinam, Maxim Likhachev and Howie Choset.\
