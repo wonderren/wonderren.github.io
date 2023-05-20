@@ -11,7 +11,7 @@ Journal
 ------
 
 * [J6] MUI-TARE: Cooperative Multi-Agent Exploration with Unknown Initial Position\
-  Jingtian Yan, Xingqiao Lin **Zhongqiang Ren**, Shiqi Zhao, Jieqiong Yu, Chao Cao, Peng Yin, Ji Zhang, and Sebastian Scherer.\
+  Jingtian Yan, Xingqiao Lin, **Zhongqiang Ren**, Shiqi Zhao, Jieqiong Yu, Chao Cao, Peng Yin, Ji Zhang, and Sebastian Scherer.\
   <i>IEEE Robotics and Automation Letters (RA-L)</i>, 2023.\
 [[Paper](../files/yan23_MUITARE_RAL.pdf)]
 
