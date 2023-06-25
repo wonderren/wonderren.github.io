@@ -10,9 +10,18 @@ author_profile: true
 Journal
 ------
 
+* [J7] A Pareto-Optimal Local Optimization Framework for Multi-Objective Ergodic Search\
+  **Zhongqiang Ren**, Akshaya Kesarimangalam Srinivasan, Bhaskar Vundurthy, Ian Abraham and Howie Choset.\
+  <i>IEEE Transaction on Robotics (T-RO)</i>, 2023.\
+[[Bibtex](https://wonderren.github.io/files/bibtex_ren23moesTRO.txt)]
+[[Paper](../files/ren23_MOES_TRO.pdf)]
+[[Code](https://github.com/wonderren/public_moes)]
+[[talk at RSS22](https://youtu.be/A6rRCVtB2sM?t=1548)]
+
 * [J6] MUI-TARE: Cooperative Multi-Agent Exploration with Unknown Initial Position\
   Jingtian Yan, Xingqiao Lin, **Zhongqiang Ren**, Shiqi Zhao, Jieqiong Yu, Chao Cao, Peng Yin, Ji Zhang, and Sebastian Scherer.\
   <i>IEEE Robotics and Automation Letters (RA-L)</i>, 2023.\
+[[Bibtex](https://wonderren.github.io/files/bibtex_yan23muitare.txt)]
 [[Paper](../files/yan23_MUITARE_RAL.pdf)]
 
 * [J5] CBSS: A New Approach for Multiagent Combinatorial Path Finding\

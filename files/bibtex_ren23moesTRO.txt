@@ -1,0 +1,10 @@
+@ARTICLE{ren23moesTRO,
+  author={Ren, Zhongqiang and Srinivasan, Akshaya Kesarimangalam and Vundurthy, Bhaskar and Abraham, Ian and Choset, Howie},
+  journal={IEEE Transactions on Robotics}, 
+  title={A Pareto-Optimal Local Optimization Framework for Multiobjective Ergodic Search}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-12},
+  doi={10.1109/TRO.2023.3284358}
+}

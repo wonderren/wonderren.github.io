@@ -34,8 +34,9 @@ I am broadly interested in Robotics and Artificial Intelligence. My research foc
 News
 ======
 
-* \[2023.05\] One [paper](https://wonderren.github.io/files/yan23_RUITARE_RAL.pdf) is accepted to IEEE Robotics and Automation Letters (RA-L).
-* \[2023.04\] One [paper](https://wonderren.github.io/files/ren23_CBSS_TRO.pdf) is accepted to IEEE Transaction on Robotics (T-RO).
+* \[2023.06\] One [paper](https://wonderren.github.io/files/ren23_MOES_TRO.pdf) on ergodic trajectory planning is accepted to IEEE Transaction on Robotics (T-RO).
+* \[2023.05\] One [paper](https://wonderren.github.io/files/yan23_RUITARE_RAL.pdf) on multi-agent exploration planning is accepted to IEEE Robotics and Automation Letters (RA-L).
+* \[2023.04\] One [paper](https://wonderren.github.io/files/ren23_CBSS_TRO.pdf) on multi-agent path planning is accepted to IEEE Transaction on Robotics (T-RO).
 * \[2023.03\] One [paper](https://wonderren.github.io/files/chen23_pypose_cvpr.pdf) is accepted to CVPR-2023.
 * \[2023.02\] One [paper](https://wonderren.github.io/files/ren23_BBMOCBS_ICAPS23.pdf) is accepted to ICAPS-2023.
 * \[2023.02\] One [paper](https://wonderren.github.io/files/ren23_MATCPF_ICRA23.pdf) is accepted to ICRA-2023.

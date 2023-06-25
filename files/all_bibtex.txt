@@ -1,3 +1,25 @@
+@ARTICLE{ren23moesTRO,
+  author={Ren, Zhongqiang and Srinivasan, Akshaya Kesarimangalam and Vundurthy, Bhaskar and Abraham, Ian and Choset, Howie},
+  journal={IEEE Transactions on Robotics}, 
+  title={A Pareto-Optimal Local Optimization Framework for Multiobjective Ergodic Search}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-12},
+  doi={10.1109/TRO.2023.3284358}
+}
+
+@ARTICLE{yan23muitare,
+  author={Yan, Jingtian and Lin, Xingqiao and Ren, Zhongqiang and Zhao, Shiqi and Yu, Jieqiong and Cao, Chao and Yin, Peng and Zhang, Ji and Scherer, Sebastian},
+  journal={IEEE Robotics and Automation Letters}, 
+  title={MUI-TARE: Cooperative Multi-Agent Exploration With Unknown Initial Position}, 
+  year={2023},
+  volume={8},
+  number={7},
+  pages={4299-4306},
+  doi={10.1109/LRA.2023.3281262}
+}
+
 @ARTICLE{ren23cbssTRO,
   author={Ren, Zhongqiang and Rathinam, Sivakumar and Choset, Howie},
   journal={IEEE Transactions on Robotics}, 

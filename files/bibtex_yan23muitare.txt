@@ -1,0 +1,10 @@
+@ARTICLE{yan23muitare,
+  author={Yan, Jingtian and Lin, Xingqiao and Ren, Zhongqiang and Zhao, Shiqi and Yu, Jieqiong and Cao, Chao and Yin, Peng and Zhang, Ji and Scherer, Sebastian},
+  journal={IEEE Robotics and Automation Letters}, 
+  title={MUI-TARE: Cooperative Multi-Agent Exploration With Unknown Initial Position}, 
+  year={2023},
+  volume={8},
+  number={7},
+  pages={4299-4306},
+  doi={10.1109/LRA.2023.3281262}
+}
