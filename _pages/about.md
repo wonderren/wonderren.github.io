@@ -34,6 +34,8 @@ I am broadly interested in Robotics and Artificial Intelligence. My research foc
 News
 ======
 
+* \[2023.07\] One [paper](https://www.science.org/doi/full/10.1126/scirobotics.adf0970) on multi-robot exploration is accepted to Science Robotics.
+* \[2023.07\] One [paper](https://wonderren.github.io/files/ren23_ERCA_TITS.pdf) on resource constrained path planning is accepted to IEEE Transactions on Intelligent Transportation System (T-ITS).
 * \[2023.06\] One [paper](https://wonderren.github.io/files/ren23_MOES_TRO.pdf) on ergodic trajectory planning is accepted to IEEE Transaction on Robotics (T-RO).
 * \[2023.05\] One [paper](https://wonderren.github.io/files/yan23_RUITARE_RAL.pdf) on multi-agent exploration planning is accepted to IEEE Robotics and Automation Letters (RA-L).
 * \[2023.04\] One [paper](https://wonderren.github.io/files/ren23_CBSS_TRO.pdf) on multi-agent path planning is accepted to IEEE Transaction on Robotics (T-RO).
