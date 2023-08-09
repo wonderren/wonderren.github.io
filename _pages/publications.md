@@ -10,6 +10,18 @@ author_profile: true
 Journal
 ------
 
+* [J9] Representation granularity enables time-efficient autonomous exploration in large, complex worlds\
+  Chao Cao, Hongbiao Zhu, **Zhongqiang Ren**, Howie Choset and Ji Zhang.\
+  <i>Science Robotics</i>, 2023.\
+[[Paper](https://www.science.org/doi/full/10.1126/scirobotics.adf0970)]
+
+* [J8] ERCA*: A New Approach for the Resource Constrained Shortest Path Problem\
+  **Zhongqiang Ren**, Zachary B. Rubinstein, Stephen F. Smith, Sivakumar Rathinam and Howie Choset.\
+  <i>IEEE Transactions on Intelligent Transportation Systems (T-ITS)</i>, 2023.\
+[[Bibtex](https://wonderren.github.io/files/bibtex_ren23erca.txt)]
+[[Paper](../files/ren23_ERCA_TITS.pdf)]
+[[Code](https://github.com/wonderren/public_erca)]
+
 * [J7] A Pareto-Optimal Local Optimization Framework for Multi-Objective Ergodic Search\
   **Zhongqiang Ren**, Akshaya Kesarimangalam Srinivasan, Bhaskar Vundurthy, Ian Abraham and Howie Choset.\
   <i>IEEE Transaction on Robotics (T-RO)</i>, 2023.\

@@ -1,0 +1,10 @@
+@ARTICLE{ren23erca,
+  author={Ren, Zhongqiang and Rubinstein, Zachary B. and Smith, Stephen F. and Rathinam, Sivakumar and Choset, Howie},
+  journal={IEEE Transactions on Intelligent Transportation Systems}, 
+  title={ERCA*: A New Approach for the Resource Constrained Shortest Path Problem}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-12},
+  doi={10.1109/TITS.2023.3293039}
+}
