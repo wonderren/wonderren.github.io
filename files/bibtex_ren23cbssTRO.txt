@@ -3,8 +3,8 @@
   journal={IEEE Transactions on Robotics}, 
   title={CBSS: A New Approach for Multiagent Combinatorial Path Finding}, 
   year={2023},
-  volume={},
-  number={},
-  pages={1-15},
+  volume={39},
+  number={4},
+  pages={2669-2683},
   doi={10.1109/TRO.2023.3266993}
 }
