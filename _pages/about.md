@@ -22,7 +22,7 @@ redirect_from:
 
 About
 ======
-**I will join Shanghai Jiao Tong University (SJTU) starting from January 2024. I am looking for Postdoc/RA. If you are interested, please send me an email (ren dot zhongqiang at outlook dot com).**
+**I will join Shanghai Jiao Tong University (SJTU) starting from January 2024. There are still openings for Postdoc/RA. If you are interested, please send me an email (ren dot zhongqiang at outlook dot com).**
 
 I am a postdoc with [Biorobotics Lab](http://biorobotics.ri.cmu.edu/index.php) at [Carnegie Mellon University](https://www.cmu.edu/) (CMU, the U.S.).
 I received my Ph.D. degree from the same lab, advised by Professor [Howie Choset](https://www.ri.cmu.edu/ri-faculty/howie-choset/) and Professor [Maxim Likhachev](http://www.cs.cmu.edu/~maxim/).
