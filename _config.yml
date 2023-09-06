@@ -88,7 +88,7 @@ author:
   employer         :
   pubmed           : #""
   googlescholar    : "https://scholar.google.com/citations?user=kKKvRXsAAAAJ&hl=en&oi=ao"
-  email            : zhongqir@andrew.cmu.edu
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #""
+  github           : https://github.com/wonderren
   google_plus      :
   keybase          :
   instagram        :
