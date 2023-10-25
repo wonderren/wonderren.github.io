@@ -81,6 +81,16 @@ Journal
 Conference
 ------
 
+* [C14] Solving Multi-Agent Target Assignment and Path Finding with a Single Constraint Tree\
+  Yimin Tang, **Zhongqiang Ren**, Jiaoyang Li and Katia Sycara\
+  <i>IEEE International Symposium on Multi-Robot & Multi-Agent Systems (MRS)</i>, 2023.\
+[[Paper](../files/2023_MRS_ITA_CBS_YiminTang.pdf)]
+
+* [C13] Multi-Agent Multi-Objective Ergodic Search using Branch and Bound\
+  Akshaya K. Srinivasan, Geordan Gutow, **Zhongqiang Ren**, Ian Abraham, Bhaskar Vundurthy and Howie Choset.\
+  <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</i>, 2023.\
+[[Paper](../files/2023_IROS_MAMOES_Akshaya.pdf)]
+
 * [C12] Binary Branching Multi-Objective Conflict-Based Search for Multi-Agent Path Finding\
   **Zhongqiang Ren**, Jiaoyang Li, Han Zhang, Sven Koenig, Sivakumar Rathinam and Howie Choset.\
   <i>International Conference on Automated Planning and Scheduling (ICAPS)</i>, 2023.\
