@@ -85,6 +85,7 @@ Conference
   Yimin Tang, **Zhongqiang Ren**, Jiaoyang Li and Katia Sycara\
   <i>IEEE International Symposium on Multi-Robot & Multi-Agent Systems (MRS)</i>, 2023.\
 [[Paper](../files/2023_MRS_ITA_CBS_YiminTang.pdf)]
+[[Code](https://github.com/TachikakaMin/ITA-CBS2)]
 
 * [C13] Multi-Agent Multi-Objective Ergodic Search using Branch and Bound\
   Akshaya K. Srinivasan, Geordan Gutow, **Zhongqiang Ren**, Ian Abraham, Bhaskar Vundurthy and Howie Choset.\
